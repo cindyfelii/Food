@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cindy.food">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.cindy.food.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".banten.ListBanten"></activity>
+        <activity android:name=".banten.banten"></activity>
+        <activity android:name=".banten.Activity_ke2"></activity>
+        <activity android:name=".banten.DetilResep"></activity>
+
+
+        <activity android:name=".riau.ListRiau"></activity>
+        <activity android:name=".riau.riau"></activity>
+        <activity android:name=".riau.Activity_ke3"></activity>
+        <activity android:name=".riau.DetilResep"></activity>
+
+        <activity android:name=".kalimantanutara.ListKalimantanUtara"></activity>
+        <activity android:name=".kalimantanutara.kalimantanutara"></activity>
+        <activity android:name=".kalimantanutara.Activity_ke4"></activity>
+        <activity android:name=".kalimantanutara.DetilResep"></activity>
+
+
+    </application>
+
+</manifest>

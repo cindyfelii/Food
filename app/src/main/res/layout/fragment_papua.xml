@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".papua">
+
+
+
+    <Button
+        android:id="@+id/Papua"
+        android:layout_width="124dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="196dp"
+        android:layout_marginEnd="268dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/papua1"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/PapuaBarat"
+        android:layout_width="123dp"
+        android:layout_height="83dp"
+        android:layout_marginTop="196dp"
+        android:layout_marginEnd="72dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/pabar"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

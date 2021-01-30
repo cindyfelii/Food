@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg5"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/nama_resep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="66dp"
+        android:fontFamily="@font/bangers"
+        android:text="@string/nama"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/foto_detil"
+        android:layout_width="376dp"
+        android:layout_height="300dp"
+        android:layout_margin="16dp"
+        android:layout_marginTop="200dp"
+        android:layout_weight="40"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/alat_resep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/alat"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="36dp"
+        android:layout_gravity="left"/>
+
+    <TextView
+        android:id="@+id/bahan_resep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/bahan"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="36dp"
+        android:layout_gravity="left"/>
+
+    <TextView
+        android:id="@+id/cara_resep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/cara"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="36dp"
+        android:layout_gravity="left"/>
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".jawa">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:id="@+id/btnBanten"
+        android:layout_width="131dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="264dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/banten"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/btnJawaTimur"
+        android:layout_width="130dp"
+        android:layout_height="77dp"
+        android:layout_marginTop="404dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/jatim"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnBali"
+        android:layout_width="136dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="404dp"
+        android:layout_marginEnd="256dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/bali"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnNusaTenggaraBarat"
+        android:layout_width="135dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="508dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/ntb"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnNusaTenggaraTimur"
+        android:layout_width="134dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="508dp"
+        android:layout_marginEnd="260dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/ntt"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnJakarta"
+        android:layout_width="137dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="296dp"
+        android:layout_marginEnd="256dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/jakarta"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnYogyakarta"
+        android:layout_width="137dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="632dp"
+        android:layout_marginEnd="160dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/yogya"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnJawaTengah"
+        android:layout_width="135dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="296dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/jateng"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnJawaBarat"
+        android:layout_width="132dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="64dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/jabar"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".sumatera">
+
+
+    <Button
+        android:id="@+id/Sumatera_Utara"
+        android:layout_width="138dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="288dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/sumut"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnRiau"
+        android:layout_width="139dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="292dp"
+        android:layout_marginEnd="284dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/riau"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Bengkulu"
+        android:layout_width="138dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="576dp"
+        android:layout_marginEnd="56dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/bengkulu"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Aceh"
+        android:layout_width="137dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="52dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/aceh"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Jambi"
+        android:layout_width="139dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="392dp"
+        android:layout_marginEnd="52dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/jambi"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Sumatera_Selatan"
+        android:layout_width="134dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="392dp"
+        android:layout_marginEnd="288dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/sumsel"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/BagkaBelitung"
+        android:layout_width="141dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="488dp"
+        android:layout_marginEnd="284dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/bangka"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Sumatera_Barat"
+        android:layout_width="138dp"
+        android:layout_height="67dp"
+        android:layout_marginTop="292dp"
+        android:layout_marginEnd="52dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/sumbar"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/KepulauanRiau"
+        android:layout_width="136dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="576dp"
+        android:layout_marginEnd="288dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/kepri"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Lampung"
+        android:layout_width="134dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="488dp"
+        android:layout_marginEnd="56dp"
+        android:backgroundTint="#ffdacc"
+        android:text="@string/bandarlampung"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
