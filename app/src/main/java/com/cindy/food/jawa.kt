@@ -6,10 +6,13 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.cindy.food.banten.Activity_ke2
+import com.cindy.food.jawatenggah.Activity_ke5
+import com.cindy.food.kalimantanutara.Activity_ke4
 
-class jawa: Fragment() {
+class jawa : Fragment() {
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstance: Bundle?
@@ -21,7 +24,15 @@ class jawa: Fragment() {
             val intent = Intent(activity, Activity_ke2::class.java)
             startActivity(intent)
         }
+
+        val panggilJawaTenggah: Button = i.findViewById(R.id.btnJawaTengah)
+
+        panggilJawaTenggah.setOnClickListener {
+            val intent = Intent(activity, Activity_ke5::class.java)
+            startActivity(intent)
+        }
         return i
     }
-}
+
+    }
 

@@ -11,7 +11,7 @@
 
 
     <Button
-        android:id="@+id/Papua"
+        android:id="@+id/btnPapua"
         android:layout_width="124dp"
         android:layout_height="78dp"
         android:layout_marginTop="196dp"
@@ -24,7 +24,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/PapuaBarat"
+        android:id="@+id/btnPapuaBarat"
         android:layout_width="123dp"
         android:layout_height="83dp"
         android:layout_marginTop="196dp"

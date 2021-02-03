@@ -28,10 +28,88 @@
         <activity android:name=".riau.Activity_ke3"></activity>
         <activity android:name=".riau.DetilResep"></activity>
 
+
         <activity android:name=".kalimantanutara.ListKalimantanUtara"></activity>
         <activity android:name=".kalimantanutara.kalimantanutara"></activity>
         <activity android:name=".kalimantanutara.Activity_ke4"></activity>
         <activity android:name=".kalimantanutara.DetilResep"></activity>
+
+
+        <activity android:name=".jawatenggah.ListJawaTengah"></activity>
+        <activity android:name=".jawatenggah.jawatenggah"></activity>
+        <activity android:name=".jawatenggah.Activity_ke5"></activity>
+        <activity android:name=".jawatenggah.DetilResep"></activity>
+
+
+        <activity android:name=".papuaa.ListPapua"></activity>
+        <activity android:name=".papuaa.papua"></activity>
+        <activity android:name=".papuaa.Activity_ke6"></activity>
+        <activity android:name=".papuaa.DetilResep"></activity>
+
+        <activity android:name=".papuabarat.ListPapuaBarat"></activity>
+        <activity android:name=".papuabarat.papuabarat"></activity>
+        <activity android:name=".papuabarat.Activity_ke7"></activity>
+        <activity android:name=".papuabarat.DetilResep"></activity>
+
+
+        <activity android:name=".kalimantanbarat.ListKalimantanBarat"></activity>
+        <activity android:name=".kalimantanbarat.kalimantanbarat"></activity>
+        <activity android:name=".kalimantanbarat.Activity_ke8"></activity>
+        <activity android:name=".kalimantanbarat.DetilResep"></activity>
+
+
+        <activity android:name=".kalimantanselatan.ListKalimantanSelatan"></activity>
+        <activity android:name=".kalimantanselatan.kalimantanselatan"></activity>
+        <activity android:name=".kalimantanselatan.Activity_ke9"></activity>
+        <activity android:name=".kalimantanselatan.DetilResep"></activity>
+
+
+        <activity android:name=".kalimantantengah.ListKalimantanTengah"></activity>
+        <activity android:name=".kalimantantengah.kalimantantengah"></activity>
+        <activity android:name=".kalimantantengah.Activity_ke10"></activity>
+        <activity android:name=".kalimantantengah.DetilResep"></activity>
+
+
+        <activity android:name=".kalimantantimur.ListKalimantanTimur"></activity>
+        <activity android:name=".kalimantantimur.kalimantantimur"></activity>
+        <activity android:name=".kalimantantimur.Activity_ke11"></activity>
+        <activity android:name=".kalimantantimur.DetilResep"></activity>
+
+
+        <activity android:name=".sulawesibarat.ListSulawesiBarat"></activity>
+        <activity android:name=".sulawesibarat.sulawesibarat"></activity>
+        <activity android:name=".sulawesibarat.Activity_ke12"></activity>
+        <activity android:name=".sulawesibarat.DetilResep"></activity>
+
+
+        <activity android:name=".sulawesiselatan.ListSulawesiSelatan"></activity>
+        <activity android:name=".sulawesiselatan.sulawesiselatan"></activity>
+        <activity android:name=".sulawesiselatan.Activity_ke13"></activity>
+        <activity android:name=".sulawesiselatan.DetilResep"></activity>
+
+
+        <activity android:name=".sulawesitengah.ListSulawesiTengah"></activity>
+        <activity android:name=".sulawesitengah.sulawesitengah"></activity>
+        <activity android:name=".sulawesitengah.Activity_ke14"></activity>
+        <activity android:name=".sulawesitengah.DetilResep"></activity>
+
+
+        <activity android:name=".sulawesitenggara.ListSulawesiTenggara"></activity>
+        <activity android:name=".sulawesitenggara.sulawesitenggara"></activity>
+        <activity android:name=".sulawesitenggara.Activity_ke15"></activity>
+        <activity android:name=".sulawesitenggara.DetilResep"></activity>
+
+
+        <activity android:name=".sulawesiutara.ListSulawesiUtara"></activity>
+        <activity android:name=".sulawesiutara.sulawesiutara"></activity>
+        <activity android:name=".sulawesiutara.Activity_ke16"></activity>
+        <activity android:name=".sulawesiutara.DetilResep"></activity>
+
+
+        <activity android:name=".gorontalo.ListGorontalo"></activity>
+        <activity android:name=".gorontalo.gorontalo"></activity>
+        <activity android:name=".gorontalo.Activity_ke17"></activity>
+        <activity android:name=".gorontalo.DetilResep"></activity>
 
 
     </application>
