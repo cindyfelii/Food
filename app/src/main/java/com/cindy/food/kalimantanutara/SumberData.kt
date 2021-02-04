@@ -138,7 +138,6 @@ class SumberData{
                                     "2. Kemudian iris setengah biji terung asam (rembang). Lalu potong kacang panjang dan umbut rotan, setelah itu cuci direndaman air.\n" +
                                     "3. Rebus air hingga mendidih, lalu masukkan umbut rotan dan terung asam. Tutup panci agar lebih matang.\n" +
                                     "4. Kemudian masukkan kacang panjang dan juga ikan patin beserta bumbu halusnya ke dalam rebusan umbut rotan. Tambahkan garam. Masak hingga mendidih, dan bila ikan sudah matang serta rasanya sudah pas, angkat. Sajikan ke dalam mangkuk. \n"
-
                     )
             )
             list.add(
