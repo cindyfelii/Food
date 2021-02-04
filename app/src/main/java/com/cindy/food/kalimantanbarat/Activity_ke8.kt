@@ -4,9 +4,9 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.cindy.food.R
-import com.cindy.food.jawatenggah.DekorasiSpasiGambar
-import com.cindy.food.jawatenggah.SumberData
-import com.cindy.food.kalimantanutara.ResepRecyclerAdapter
+import com.cindy.food.kalimantanbarat.DekorasiSpasiGambar
+import com.cindy.food.kalimantanbarat.SumberData
+import com.cindy.food.kalimantanbarat.ResepRecyclerAdapter
 import kotlinx.android.synthetic.main.list_resep6.*
 
 class Activity_ke8 : AppCompatActivity() {

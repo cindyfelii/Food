@@ -112,6 +112,10 @@
         <activity android:name=".gorontalo.DetilResep"></activity>
 
 
+        <activity android:name=".jawabarat.ListJawaBarat"></activity>
+        <activity android:name=".jawabarat.jawabarat"></activity>
+        <activity android:name=".jawabarat.Activity_ke18"></activity>
+        <activity android:name=".jawabarat.DetilResep"></activity>
     </application>
 
 </manifest>

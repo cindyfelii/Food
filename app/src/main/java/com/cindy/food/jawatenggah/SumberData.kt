@@ -1,6 +1,6 @@
 package com.cindy.food.jawatenggah
 
-import com.cindy.food.kalimantanutara.ListObjResep
+import com.cindy.food.jawatenggah.ListObjResep
 
 class SumberData {
     companion object {

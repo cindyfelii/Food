@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.cindy.food.R
 import com.cindy.food.jawatenggah.DekorasiSpasiGambar
-import com.cindy.food.kalimantanutara.ResepRecyclerAdapter
+import com.cindy.food.jawatenggah.ResepRecyclerAdapter
 import com.cindy.food.jawatenggah.SumberData
 import kotlinx.android.synthetic.main.list_resep3.*
 

@@ -1,6 +1,6 @@
 package com.cindy.food.gorontalo
 
-import com.cindy.food.papuabarat.ListObjResep
+import com.cindy.food.gorontalo.ListObjResep
 
 class SumberData {
     companion object {
