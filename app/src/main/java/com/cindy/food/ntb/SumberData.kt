@@ -8,66 +8,223 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Rabeg Sapi Banten",
+                            "Ayam taliwang",
                             "Wadah\n" +
                                     "Panci",
-                            "https://img-global.cpcdn.com/recipes/3a01d5de7fdd2f67/751x532cq70/rabeg-sapi-banten-foto-resep-utama.webp",
-                            "500 gram daging sapi\n" +
-                                    "1 batang serai\n" +
-                                    "2 lembar daun salam\n" +
-                                    "1 ruas kayu manis\n" +
-                                    "5 sdm gula aren\n" +
-                                    "1 sdm asam jawa matang\n" +
-                                    "1 sdm kecap manis\n" +
-                                    "2secukupnya garam\n" +
-                                    "secukupnya lada\n" +
-                                    "secukupnya kaldu bubuk\n" +
-                                    "secukupnya minyak goreng\n" +
-                                    "secukupnya air\n" +
-                                    "Bumbu Halus\n" +
-                                    "5 siung bawang merah\n" +
-                                    "5 siung bawang putih\n" +
-                                    "4 buah cabai merah keriting\n" +
-                                    "cabai rawit (sesuai selera, me : 20 buah)\n" +
-                                    "1 buah tomat (me : ukuran sedang)\n" +
-                                    "5 butir kemiri (sangrai)\n" +
-                                    "1 ruas jahe\n" +
-                                    "1 ruas kunyit\n" +
-                                    "1 ruas lengkuas\n" +
-                                    "1 sdm ketumbar bubuk\n",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293277-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1 ekor ayam\n" +
+                                    "- 1 sdm gula merah, sisir\n" +
+                                    "- garam secukupnya\n" +
+                                    "- air secukupnya\n" +
+                                    "Bumbu-bumbu:\n" +
+                                    "- 7 siung bawang putih\n" +
+                                    "- 15 buah bawang merah\n" +
+                                    "- 2 ruas kencur\n" +
+                                    "- 1 buah tomat\n" +
+                                    "- 1 sdt rebon atau 1 cm terasi\n" +
+                                    "- 10 buah cabai keriting\n" +
+                                    "- 10 buah cabai rawit\n" ,
                             "Langkah\n" +
-                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera. \n" +
-                                    "2. Haluskan seluruh bahan bumbu halus.\n" +
-                                    "3. Siapkan juga daun salam dan serai.\n" +
-                                    "4. Tumis bumbu halus bersama dengan serai dan daun salam. Tumis hingga harum dan warna bumbu menjadi lebih gelap.\n" +
-                                    "5. Setelah bumbu harum, masukkan daging sapi, aduk aduk hingga daging sedikit menyusut.\n" +
-                                    "6. Tambahkan kurang lebih 3 - 4 gelas air, bumbui dengan garam, lada dan kaldu bubuk. Masak kembali dengan api kecil hingga airnya sedikit menyusut untuk mematangkan daging.\n" +
-                                    "7. Sambil menunggu air pada daging menyusut, sisir gula aren (jumlah yang difoto hanya ± 1 sdm, tapi sebenarnya sewaktu tes rasa, saya tambahkan kembali gula aren sesuai takaran pada daftar bahan).\n" +
-                                    "8. Larutkan asam jawa matang dalam ± 3 sdm air.\n" +
-                                    "9. Setelah air pada daging mulai menyusut, tambahkan gula aren yang sudah disisir. Tambahkan pula air asam jawa, kecap manis dan kayu manis. Masak hingga bumbu menyusut sambil sesekali diaduk agar tidak hangus.\n"  +
-                                    "10. Selesai, siap dinikmati.\n"
-
+                                    "1. Tumis bumbu halus hingga harum. Masukkan ayam dan aduk rata dengan bumbu. Masak sambil diaduk-aduk hingga bumbu matang atau ayam berubah warna.\n" +
+                                    "2. Tuang air secukupnya. Masukkan gula dan garam secukupnya. Masak hingga ayam matang dan empuk. Tes rasa, masak lagi hingga air habis.\n" +
+                                    "3. Panggang ayam beserta bumbu hingga kering dan terpanggang sempurna. \n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Tumis Kulit Melinjo Khas Banten",
+                            "Plecing kangkung",
                             "Kompor",
-                            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2019%2F07%2F31%2F070000%2Ftumis-kulit-melinjo-teri-lembut-dan-gurih-kreasi-yang-bikin-makan-lahap&psig=AOvVaw35YhplqIqyM4g4mRZYVXAH&ust=1612027171925000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj45KrTwe4CFQAAAAAdAAAAABAD",
-                            "1 bungkus kulit melinjo\n" +
-                                    "segenggam teri nasi\n" +
-                                    "7 buah cabe hijau (atau sesuai selera)\n" +
-                                    "3 sdm minyak sayur\n" +
-                                    "3 buah bawang putih\n" +
-                                    "5 buah bawah merah\n" +
-                                    "3 lembar daun jeruk\n" +
-                                    "1 ruas lengkuas (geprek)\n" +
-                                    "100 ml air\n" +
-                                    "secukupnya garam, gulput, merica bubuk dan penyedap\n",
-                            "1. Cuci bersih kulit melinjo, belah 2 memanjang atau sesuai selera. Lalu rebus kurleb 5 menit supaya tidak langu. Angkat dan tiriskan.\n" +
-                                    "2. Tumis teri yg sdh dicuci bersih (jangan terlalu kering), tambahkan irisan bawang merah, bawang putih, daun jeruk, lengkuas geprek dan cabe hijau yg sdh dipotong2.\n" +
-                                    "3. Masukkan kulit melinjo, aduk rata. Tambahkan air, garam, gulput, merica bubuk dan penyedap.\n" +
-                                    "4. Cek rasa, tumis kulit melinjo khas Banten siap dihidangkan."
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293279-1000xauto-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1 ikat kangkung, siangi, buang batangnya\n" +
+                                    "- 1 buah jeruk limau\n" +
+                                    "- 2 sdm minyak goreng\n" +
+                                    "- garam secukupnya\n" +
+                                    "Bahan sambal:\n" +
+                                    "- 9 buah cabai keriting\n" +
+                                    "- 5 buah cabai rawit\n" +
+                                    "- 7 siung bawang merah\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 1/2 buah tomat\n" +
+                                    "- garam secukupnya\n" +
+                                    "- gula secukupnya\n" +
+                                    "- terasi bakar secukupnya\n" ,
+                            "Cara membuat:\n" +
+                                    "1. Kukus atau rebus sayur kangkung dengan sedikit garam hingga matang dan empuk sesuai selera.\n" +
+                                    "2. Tiriskan kangkung yang telah matang, sisihkan sebentar.\n" +
+                                    "3. Haluskan sambal kemudian tumis dengan minyak goreng hingga harum.\n" +
+                                    "4. Letakkan kangkung di atas piring, siram dengan sambal yang telah ditumis.\n" +
+                                    "5. Tambahkan air jeruk limau di atasnya, sajikan selagi masih hangat.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Beberuk terong",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293273-1000xauto-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 5 buah terong bulat hijau, potong tipis-tipis\n" +
+                                    "- 4 lenjer kacang panjang, potong kecil-kecil\n" +
+                                    "- 1 siung bawang merah, iris tipis\n" +
+                                    "- 1 sdt air jeruk purut\n" +
+                                    "- 3 sdm minyak panas\n" +
+                                    "\n" +
+                                    "\n" +
+                                    "Bumbu sambal:\n" +
+                                    "- 4 buah cabai keriting\n" +
+                                    "- 3 buah cabai rawit/secukupnya\n" +
+                                    "- 1 siung bawang putih\n" +
+                                    "- 3 siung bawang merah\n" +
+                                    "- 2 ruas kencur\n" +
+                                    "- 1 sdt terasi, bakar\n" +
+                                    "- 1 sdt gula\n" +
+                                    "- 1 sdt garam secukupnya\n"  ,
+                            "Cara membuat:\n" +
+                                    "1. Ulek halus bumbu sambal. Panaskan minyak dan tuang ke dalam bumbu sambal, aduk rata. Sisihkan.\n" +
+                                    "2. Beri perasan air jeruk.\n" +
+                                    "3. Masukkan terong dan kacang panjang aduk rata.\n" +
+                                    "4. Sajikan dengan taburan bawang goreng.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Nasi balap",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293274-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- nasi putih secukupnya\n" +
+                                    "- 500 gram ayam\n" +
+                                    "- 8 siung bawang putih\n" +
+                                    "- 5 siung bawang putih\n" +
+                                    "- 4 kemiri\n" +
+                                    "- 50 gram cabe merah keriting\n" +
+                                    "- 50 gram cabe rawit\n" +
+                                    "- 1/2 sdt garam\n" +
+                                    "- 1 sdt kaldu jamur\n" +
+                                    "- 5 tetes cuka\n" +
+                                    "- 1 bungkus santan instan\n" +
+                                    "- minyak goreng secukupnya\n" +
+                                    "Bahan kentang:\n" +
+                                    "- 1 kg kentang\n" +
+                                    "- 50 gram kacang kedelai atau kacang tanah\n" +
+                                    "- garam secukupnya\n" +
+                                    "- air secukupnya\n" +
+                                    "- minyak secukupnya\n" +
+                                    "Bahan kacang panjang:\n" +
+                                    "- 1 ikat kacang panjang\n" +
+                                    "- 2 buah jeruk nipis\n" +
+                                    "- 1/2 sdt garam\n" +
+                                    "- 1 sdm gula\n" +
+                                    "- 5 tetes cuka\n" ,
+                            "Cara membuat:\n" +
+                                    "1. Goreng ayam hingga kering, sisihkan.\n" +
+                                    "2. Haluskan semua bumbu lalu tumis.\n" +
+                                    "3. Masukkan santan hingga mendidih.\n" +
+                                    "4. Masukkan ayam, aduk sebentar lalu angkat.\n" +
+                                    "5. Parut kentang, rendam dengan air garam selama 1 jam, tiriskan dan goreng.\n" +
+                                    "6. Potong tipis kacang panjang, siram dengan campuran jeruk nipis, gula, garam dan cua. Koreksi rasa.\n" +
+                                    "7. Susun nasi dengan semua lauknya.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Bebalung",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293329-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1 kg balungan sapi\n" +
+                                    "- 8 siung bawang putih\n" +
+                                    "- 2 jari laos\n" +
+                                    "- merica bubuk\n" +
+                                    "- asam jawa\n" +
+                                    "- daun asam\n" +
+                                    "\n" +
+                                    "\n" +
+                                    "Bahan sambal:\n" +
+                                    "- cabai rawit sesuai selera\n" +
+                                    "- terasi\n" +
+                                    "- 1 iris jeruk nipis\n" +
+                                    "- minyak goreng\n" ,
+                            "Cara membuat:\n" +
+                                    "1. Rebus balungan sapi sampai empuk, berikan laos yang sudah dipotong.\n" +
+                                    "2. Haluskan bawang putih dan merica lalu tumis.\n" +
+                                    "3. Masukkan bumbu ke dalam balungan yg sudah empuk, beri air asam, daun asam, garam, dan gula.\n" +
+                                    "4. Untuk sambalya, haluskan cabai rawit dan terasi, beri sedikit minyak panas dan perasan jeruk nipis\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Sate bulayak",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293275-1000xauto-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 350 gr daging sapi, potong-potong\n" +
+                                    "- 200 ml santan\n" +
+                                    "- 1 sdm gula merah serut\n" +
+                                    "- 1 sdm air perasan jeruk nipis\n" +
+                                    "- 100 gr kelapa parut\n" +
+                                    "- 100 gr kacang tanah goreng,tumbuk halus\n" +
+                                    "Bumbu yang dihaluskan:\n" +
+                                    "- 10 buah cabe rawit merah\n" +
+                                    "- 6 siung bawang merah\n" +
+                                    "- 4 siung bawang putih\n" +
+                                    "- 1/2 sdt merica bubuk\n" +
+                                    "- 1/2 sdt garam\n" ,
+                            "Cara membuat:\n" +
+                                    "1. Lumuri daging dengan air jeruk nipis,diamkan 15 menit.\n" +
+                                    "2. Bagi bumbu halus menjadi dua, separuhnya campurkan dengan daging dan kelapa parut,aduk rata.\n" +
+                                    "3. Tusuk daging yang telah dicampur bumbu dengan tusuk sate,kukus selama 20 menit sampai matang. Bakar sate hingga kecoklatan.\n" +
+                                    "4. Tumis separuh bumbu halus tadi, kemudian masukkan santan,kacang tanah dan gula merah,aduk rata,masak sampai mendidih dan kental.\n" +
+                                    "5. Sajikan sate dengan saus kacang.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Sate tanjung",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293276-1000xauto-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 250 gr daging ikan fillet\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 2 siung kemiri\n" +
+                                    "- 1 ruas kunyit\n" +
+                                    "- 1/2 cm lengkuas\n" +
+                                    "- 1 sdt terasi bakar\n" +
+                                    "- 2 bh cabai merah\n" +
+                                    "- 5 bh cabai rawit\n" +
+                                    "- 4 sdm santan kental\n" +
+                                    "- garam\n" +
+                                    "- gula\n",
+                            "Cara membuat:\n" +
+                                    "1. Bersihkan ikan, potong memanjang, beri perasan jeruk nipis. Sisihkan.\n" +
+                                    "2. Haluskan semua bumbu, tambahkan potongan ikan, haluskan kembali sampai tercampur rata. Tambahkan santan.\n" +
+                                    "3. Baluri ikan dengan bumbu halus, biarkan selama 30 menit.\n" +
+                                    "4. Bakar ikan menggunakan teflon, olesi dengan bumbu, bakar hingga kering. Angkat dan sajikan.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Sate rembiga",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/08/21/190497/1293272-makanan-khas-lombok.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 250 gram daging sapi, potong dadu\n" +
+                                    "- 5 siung bawang putih\n" +
+                                    "- 5 buah cabe keriting\n" +
+                                    "- 5 buah cabe rawit\n" +
+                                    "- 1/4 sdt terasi\n" +
+                                    "- 2 sdm minyak\n" +
+                                    "- gula merah\n" +
+                                    "- garam\n" +
+                                    "- merica\n" +
+                                    "- kecap manis\n" ,
+                            "Cara membuat:\n" +
+                                    "1. Haluskan bumbu-bumbu dengan 2 sdm minyak goreng.\n" +
+                                    "2. Balurkan bumbu ke daging.\n" +
+                                    "3. Tambahkan kecap manis 2-3 sdm.\n" +
+                                    "4. Masukkan dalam kulkas selama 2 jam.\n" +
+                                    "5. Bakar sate hingga kecoklatan, angkat dan sajikan.\n"
                     )
             )
             return list

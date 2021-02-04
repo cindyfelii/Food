@@ -60,7 +60,7 @@ class SumberData {
                             "- Siram taoge dan bihun dengan air panas hingga matang, lalu sisihkan.\n" +
                             "- Untuk sausnya, campur semua bahan saus ke dalam blender. Haluskan hingga merata.\n" +
                             "- Letakkan ketupat bersama dengan tahu, taoge, dan bihun. Setelah itu, siram dengan saus kacang sesuai dengan selera. \n" +
-                            "Taburi dengan kecap, bawang goreng, kerupuk, dan telur rebus. Ketoprak siap disajikan!\n"
+                            "- Taburi dengan kecap, bawang goreng, kerupuk, dan telur rebus. Ketoprak siap disajikan!\n"
                 )
             )
             list.add(
@@ -90,7 +90,7 @@ class SumberData {
                             "- Masukkan dua buah telur bebek, sesendok teh ebi, sesendok teh bumbu halus, sesendok\n" +
                             " makan bawang merah goreng, 1/4 sendok teh garam, dan 1/4 sendok teh gula pasir ke dalam mangkuk. Setelah itu, kocok hingga merata.\n" +
                             "- Tuang campuran telur ke atas ketan di wajan, lalu ratakan dan masak hingga matang. \n" +
-                            "Balik wajan supaya telur menghadap api secara langsung, sisihkan.\n" +
+                            "- Balik wajan supaya telur menghadap api secara langsung, sisihkan.\n" +
                             "- Sebelum disajikan, taburkan kelapa dan bawang merah goreng untuk menambah cita rasanya. \n"
                 )
             )
