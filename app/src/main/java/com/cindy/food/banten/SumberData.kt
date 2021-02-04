@@ -103,32 +103,48 @@ class SumberData {
             )
             list.add(
                     ListObjResep(
-                            "Sate Bandeng",
+                            "Ayam gerem asem khas Banten",
                             "Kompor",
-                            "https://img-global.cpcdn.com/recipes/30f6311497bd8cf8/751x532cq70/sate-bandeng-khas-banten-foto-resep-utama.webp",
+                            "https://img-global.cpcdn.com/recipes/bff22f736c531537/751x532cq70/ayam-gerem-asem-khas-banten-foto-resep-utama.webp",
                             "Bahan\n" +
-                                    "2 ekor ikan bandeng ukuran sedang\n" +
-                                    "65 ml santan instan\n" +
-                                    "2 butir telur\n" +
-                                    "1-2 sdm tepung roti\n" +
-                                    "1 sdm garam dan gula pasir\n" +
-                                    "Bumbu halus :\n" +
-                                    "7 siung bawang merah\n" +
-                                    "3 siung bawang putih\n" +
-                                    "1 sdm ketumbar\n" +
-                                    "2 ruas jari kunyit\n" +
-                                    "1 ruas jari jahe\n" +
-                                    "1 ruas jari lengkuas\n" +
-                                    "1 batang serai, ambil bagian putihnya, rajang halus\n" +
-                                    "Bahan lain :\n" +
-                                    "Secukupnya daun pisang\n",
-                            "1. Bersihkan ikan bandeng, buang sirip dan sisiknya hingga bersih. Patahkan bagian ekornya, pukul-pukul bagian badan ikan.\n" +
-                                    "2. Buang isi perutnya dari bagian insang. Cabut duri tengahnya. Cuci bersih ikan hingga ke bagian dalam.\n" +
-                                    "3. Keluarkan bagian daging ikan, cuci jika ada yang tercampur isi perut. Sangrai sebentar, cukup sampai berubah warna saja, agar mudah membuang duri yang masih tersisa.\n" +
-                                    "4. Campur daging ikan, bumbu halus, gula, garam dan santan. Aduk rata, tambahkan secukupnya tepung roti jika adonan terlalu encer. Masukkan bahan isian hingga penuh dan bandeng terlihat seperti sedia kala." +
-                                    "5. Ambil secukupnya daun pisang, tata bahan isian lalu letakkan bandeng di atasnya. Tutup bagian atasnya dengan bahan isian. Bungkus, semat kedua ujungnya dengan lidi/tusuk gigi. Kukus selama 30 menit." +
-                                    "6. Panggang di teflon hingga matang di kedua sisinya." +
-                                    "7. Bisa juga dipotong-potong lalu dipanggang. Sajikan dengan sambal favorit dan lalapan."
+                                    "500 gr daging ayam (potong2)\n" +
+                                    "500 ml air\n" +
+                                    "5 siung bawang merah, iris\n" +
+                                    "3 siung bawang putih, iris\n" +
+                                    "8 buah cabe rawit, iris (resep asli 15 cabe rawit)\n" +
+                                    "2 cm jahe, iris\n" +
+                                    "2 cm Laos, iris\n" +
+                                    "1 btg sereh\n" +
+                                    "1 lbr daun salam\n" +
+                                    "1 sdm air asam jawa\n" +
+                                    "1 sdt garam\n" +
+                                    "1 sdt gula pasir\n" +
+                                    "1 sdt bumbu bubuk dapur\n" +
+                                    "1/4 sdt lada halus\n" +
+                                    "1/8 sdt pala halus\n" +
+                                    "secukupnya Minyak goreng\n",
+                            "1. Iris semua bumbu, kecuali sereh dan daun salam.\n" +
+                                    "2. Masukkan minyak goreng kedalam wajan, panaskan kemudian masukkan daging ayam aduk2 sebentar. kemudian masukkan air dan semua bumbu kecuali cabe.\n" +
+                                    "3. Jika air sudah cenderung sedikit masukkan cabe rawit nya. Aduk2 Masak sampai air benar2 tinggal sedikit.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Bubur khas Banten",
+                            "Kompor",
+                            "https://img-global.cpcdn.com/recipes/3532e76483e510f9/751x532cq70/bubur-khas-banten-foto-resep-utama.webp",
+                            "Bahan\n" +
+                                    "150 gram tepung beras\n" +
+                                    "40 gram tepung terigu\n" +
+                                    "150 gram air\n" +
+                                    "Bahan kuah:\n" +
+                                    "1500 ml air\n" +
+                                    "175 gram gula merah\n" +
+                                    "3 lembar daun pandan\n" +
+                                    "1/4 sdt garam\n" ,
+                            "1. Campur tepung beras, tepung terigu dan air, aduk sampai tercampur rata dan bisa dibentuk.\n" +
+                                    "2. Campur semua bahan kuah, masak sampai mendidih, kemudian saring. Setelah disaring masak kembali sampai mendidih, kecilkan api. Adonan dibentuk bulat panjang dan masukkan ke dalam bahan kuah. Masak terus sampai adonan matang dan kuahnya berkurang.\n" +
+                                    "3. Sajikan.\n"
                     )
             )
             return list
