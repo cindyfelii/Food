@@ -8,45 +8,43 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Rabeg Sapi Banten",
+                            "Papeda tuna kuah kuning",
                             "Wadah\n" +
                                     "Panci",
-                            "https://img-global.cpcdn.com/recipes/3a01d5de7fdd2f67/751x532cq70/rabeg-sapi-banten-foto-resep-utama.webp",
-                            "500 gram daging sapi\n" +
-                                    "1 batang serai\n" +
-                                    "2 lembar daun salam\n" +
-                                    "1 ruas kayu manis\n" +
-                                    "5 sdm gula aren\n" +
-                                    "1 sdm asam jawa matang\n" +
-                                    "1 sdm kecap manis\n" +
-                                    "2secukupnya garam\n" +
-                                    "secukupnya lada\n" +
-                                    "secukupnya kaldu bubuk\n" +
-                                    "secukupnya minyak goreng\n" +
-                                    "secukupnya air\n" +
-                                    "Bumbu Halus\n" +
-                                    "5 siung bawang merah\n" +
-                                    "5 siung bawang putih\n" +
-                                    "4 buah cabai merah keriting\n" +
-                                    "cabai rawit (sesuai selera, me : 20 buah)\n" +
-                                    "1 buah tomat (me : ukuran sedang)\n" +
-                                    "5 butir kemiri (sangrai)\n" +
-                                    "1 ruas jahe\n" +
-                                    "1 ruas kunyit\n" +
-                                    "1 ruas lengkuas\n" +
-                                    "1 sdm ketumbar bubuk\n",
-                            "Langkah\n" +
-                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera. \n" +
-                                    "2. Haluskan seluruh bahan bumbu halus.\n" +
-                                    "3. Siapkan juga daun salam dan serai.\n" +
-                                    "4. Tumis bumbu halus bersama dengan serai dan daun salam. Tumis hingga harum dan warna bumbu menjadi lebih gelap.\n" +
-                                    "5. Setelah bumbu harum, masukkan daging sapi, aduk aduk hingga daging sedikit menyusut.\n" +
-                                    "6. Tambahkan kurang lebih 3 - 4 gelas air, bumbui dengan garam, lada dan kaldu bubuk. Masak kembali dengan api kecil hingga airnya sedikit menyusut untuk mematangkan daging.\n" +
-                                    "7. Sambil menunggu air pada daging menyusut, sisir gula aren (jumlah yang difoto hanya ± 1 sdm, tapi sebenarnya sewaktu tes rasa, saya tambahkan kembali gula aren sesuai takaran pada daftar bahan).\n" +
-                                    "8. Larutkan asam jawa matang dalam ± 3 sdm air.\n" +
-                                    "9. Setelah air pada daging mulai menyusut, tambahkan gula aren yang sudah disisir. Tambahkan pula air asam jawa, kecap manis dan kayu manis. Masak hingga bumbu menyusut sambil sesekali diaduk agar tidak hangus.\n"  +
-                                    "10. Selesai, siap dinikmati.\n"
-
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/30/173135/1119416-resep-makanan-khas-papua.jpg",
+                            "Bahan papeda:\n" +
+                                    "- 250 gr tepung sagu\n" +
+                                    "- 500 ml air mendidih\n" +
+                                    "\n" +
+                                    "Bahan tuna kuah kuning:\n" +
+                                    "- 500 gr tuna fillet\n" +
+                                    "- daun kemangi secukupnya\n" +
+                                    "- 2 buah tomat\n" +
+                                    "- minyak goreng secukupnya\n" +
+                                    "- 1 liter air\n" +
+                                    "- 1/2 sdt kaldu jamur bubuk\n" +
+                                    "- garam, gula secukupnya\n" +
+                                    "\n" +
+                                    "Bumbu haluskan:\n" +
+                                    "- 2 ruas kunyit\n" +
+                                    "- 8 siung bawang merah\n" +
+                                    "- 5 siung bawang putih\n" +
+                                    "- 5 butir kemiri\n" +
+                                    "- 1/2 sdt ketumbar\n" +
+                                    "- 3 buah cabai merah\n",
+                            "Caram memasak:\n" +
+                                    "\n" +
+                                    "Papeda\n" +
+                                    "- Campur tepung sagu dengan sedikit air (sekitar 50 ml). Didihkan air, masukkan tepung sagu, aduk terus jangan berhenti sampai berubah warna menjadi bening. Angkat, sisihkan.\n" +
+                                    "\n" +
+                                    "Kuah Ikan kuning:\n" +
+                                    "- Tumis bumbu halus sampai harum, sisihkan\n" +
+                                    "- Iris tuna sesuai selera, beri perasan jeruk nipis, diamkan sebentar, lalu cuci bersih, sisihkan\n" +
+                                    "- Panaskan air dalam panci, masukkan bumbu tumis tadi, aduk rata. Tunggu agak mendidih, masukkan tuna, daun kemangi, tomat. Jika sudah matang, angkat.\n" +
+                                    "\n" +
+                                    "Penyajian:\n" +
+                                    "- Ambil papeda dengan sumpit, pindahkan ke mangkok. Siram dengan tuna kuah kuning\n" +
+                                    "- Sajikan hangat.\n"
                     )
             )
             list.add(
