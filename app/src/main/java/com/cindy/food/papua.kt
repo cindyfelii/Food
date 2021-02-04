@@ -7,8 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.fragment.app.Fragment
-import com.cindy.food.banten.Activity_ke2
-import com.cindy.food.jawatenggah.Activity_ke5
 import com.cindy.food.papuaa.Activity_ke6
 import com.cindy.food.papuabarat.Activity_ke7
 

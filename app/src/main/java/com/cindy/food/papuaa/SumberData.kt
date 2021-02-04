@@ -31,19 +31,19 @@ class SumberData {
                                     "- 5 butir kemiri\n" +
                                     "- 1/2 sdt ketumbar\n" +
                                     "- 3 buah cabai merah\n",
-                            "Caram memasak:\n" +
+                            "Cara memasak:\n" +
                                     "\n" +
                                     "Papeda\n" +
-                                    "- Campur tepung sagu dengan sedikit air (sekitar 50 ml). Didihkan air, masukkan tepung sagu, aduk terus jangan berhenti sampai berubah warna menjadi bening. Angkat, sisihkan.\n" +
+                                    "1. Campur tepung sagu dengan sedikit air (sekitar 50 ml). Didihkan air, masukkan tepung sagu, aduk terus jangan berhenti sampai berubah warna menjadi bening. Angkat, sisihkan.\n" +
                                     "\n" +
                                     "Kuah Ikan kuning:\n" +
-                                    "- Tumis bumbu halus sampai harum, sisihkan\n" +
-                                    "- Iris tuna sesuai selera, beri perasan jeruk nipis, diamkan sebentar, lalu cuci bersih, sisihkan\n" +
-                                    "- Panaskan air dalam panci, masukkan bumbu tumis tadi, aduk rata. Tunggu agak mendidih, masukkan tuna, daun kemangi, tomat. Jika sudah matang, angkat.\n" +
+                                    "1. Tumis bumbu halus sampai harum, sisihkan\n" +
+                                    "2. Iris tuna sesuai selera, beri perasan jeruk nipis, diamkan sebentar, lalu cuci bersih, sisihkan\n" +
+                                    "3. Panaskan air dalam panci, masukkan bumbu tumis tadi, aduk rata. Tunggu agak mendidih, masukkan tuna, daun kemangi, tomat. Jika sudah matang, angkat.\n" +
                                     "\n" +
                                     "Penyajian:\n" +
-                                    "- Ambil papeda dengan sumpit, pindahkan ke mangkok. Siram dengan tuna kuah kuning\n" +
-                                    "- Sajikan hangat.\n"
+                                    "1. Ambil papeda dengan sumpit, pindahkan ke mangkok. Siram dengan tuna kuah kuning\n" +
+                                    "2. Sajikan hangat.\n"
                     )
             )
             list.add(
