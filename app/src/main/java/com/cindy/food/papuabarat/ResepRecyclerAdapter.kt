@@ -14,7 +14,7 @@ import com.bumptech.glide.request.RequestOptions
 import com.cindy.food.R
 import com.cindy.food.papuabarat.DetilResep
 import com.cindy.food.papuabarat.ListObjResep
-import kotlinx.android.synthetic.main.layout_list_kalimantanutara.view.*
+import kotlinx.android.synthetic.main.layout_list_papuabarat.view.*
 
 class ResepRecyclerAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
     private  var items: List<ListObjResep> = ArrayList()
@@ -45,7 +45,7 @@ class ResepRecyclerAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     class ResepViewHolder constructor(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val foto_detil : ImageView = itemView.gambar_resep
-        val nama : TextView = itemView.nama_resep3
+        val nama : TextView = itemView.nama_resep
         //        val alat : TextView = itemView.alat_resep
 //        val bahan : TextView = itemView.bahan_resep
 //        val cara : TextView = itemView.cara_resep

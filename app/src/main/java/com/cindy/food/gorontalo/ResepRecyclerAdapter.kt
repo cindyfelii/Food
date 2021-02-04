@@ -12,8 +12,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.cindy.food.R
-import com.cindy.food.papuabarat.DetilResep
-import com.cindy.food.papuabarat.ListObjResep
+import com.cindy.food.gorontalo.DetilResep
+import com.cindy.food.gorontalo.ListObjResep
 import kotlinx.android.synthetic.main.layout_list_gorontalo.view.*
 
 class ResepRecyclerAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {

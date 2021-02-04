@@ -4,10 +4,10 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.cindy.food.R
-import com.cindy.food.jawatenggah.DekorasiSpasiGambar
-import com.cindy.food.jawatenggah.SumberData
-import com.cindy.food.kalimantanutara.ResepRecyclerAdapter
-import kotlinx.android.synthetic.main.list_resep9.*
+import com.cindy.food.gorontalo.DekorasiSpasiGambar
+import com.cindy.food.gorontalo.SumberData
+import com.cindy.food.gorontalo.ResepRecyclerAdapter
+import kotlinx.android.synthetic.main.list_resep15.*
 
 class Activity_ke17 : AppCompatActivity() {
     private  lateinit var resepAdapter: ResepRecyclerAdapter
