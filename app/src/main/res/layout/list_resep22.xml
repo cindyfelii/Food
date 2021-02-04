@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg"
-    tools:context=".jawatimur.Activity_ke21">
+    tools:context=".yogya.Activity_ke24">
 
     <TextView
         android:id="@+id/judulApp"

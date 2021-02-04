@@ -116,6 +116,42 @@
         <activity android:name=".jawabarat.jawabarat"></activity>
         <activity android:name=".jawabarat.Activity_ke18"></activity>
         <activity android:name=".jawabarat.DetilResep"></activity>
+
+
+        <activity android:name=".jakarta.ListJakarta"></activity>
+        <activity android:name=".jakarta.jakarta"></activity>
+        <activity android:name=".jakarta.Activity_ke19"></activity>
+        <activity android:name=".jakarta.DetilResep"></activity>
+
+
+        <activity android:name=".bali.ListBali"></activity>
+        <activity android:name=".bali.bali"></activity>
+        <activity android:name=".bali.Activity_ke20"></activity>
+        <activity android:name=".bali.DetilResep"></activity>
+
+
+        <activity android:name=".jawatimur.ListJawaTimur"></activity>
+        <activity android:name=".jawatimur.jawatimur"></activity>
+        <activity android:name=".jawatimur.Activity_ke21"></activity>
+        <activity android:name=".jawatimur.DetilResep"></activity>
+
+
+        <activity android:name=".ntt.ListNTT"></activity>
+        <activity android:name=".ntt.ntt"></activity>
+        <activity android:name=".ntt.Activity_ke22"></activity>
+        <activity android:name=".ntt.DetilResep"></activity>
+
+
+        <activity android:name=".ntb.ListNTB"></activity>
+        <activity android:name=".ntb.ntb"></activity>
+        <activity android:name=".ntb.Activity_ke23"></activity>
+        <activity android:name=".ntb.DetilResep"></activity>
+
+
+        <activity android:name=".yogya.ListYogyakarta"></activity>
+        <activity android:name=".yogya.yogyakarta"></activity>
+        <activity android:name=".yogya.Activity_ke24"></activity>
+        <activity android:name=".yogya.DetilResep"></activity>
     </application>
 
 </manifest>
