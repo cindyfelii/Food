@@ -8,67 +8,132 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Rabeg Sapi Banten",
+                            "Sayur asam kacang bereum",
                             "Wadah\n" +
                                     "Panci",
-                            "https://img-global.cpcdn.com/recipes/3a01d5de7fdd2f67/751x532cq70/rabeg-sapi-banten-foto-resep-utama.webp",
-                            "500 gram daging sapi\n" +
-                                    "1 batang serai\n" +
-                                    "2 lembar daun salam\n" +
-                                    "1 ruas kayu manis\n" +
-                                    "5 sdm gula aren\n" +
-                                    "1 sdm asam jawa matang\n" +
-                                    "1 sdm kecap manis\n" +
-                                    "2secukupnya garam\n" +
-                                    "secukupnya lada\n" +
-                                    "secukupnya kaldu bubuk\n" +
-                                    "secukupnya minyak goreng\n" +
-                                    "secukupnya air\n" +
-                                    "Bumbu Halus\n" +
-                                    "5 siung bawang merah\n" +
-                                    "5 siung bawang putih\n" +
-                                    "4 buah cabai merah keriting\n" +
-                                    "cabai rawit (sesuai selera, me : 20 buah)\n" +
-                                    "1 buah tomat (me : ukuran sedang)\n" +
-                                    "5 butir kemiri (sangrai)\n" +
-                                    "1 ruas jahe\n" +
-                                    "1 ruas kunyit\n" +
-                                    "1 ruas lengkuas\n" +
-                                    "1 sdm ketumbar bubuk\n",
-                            "Langkah\n" +
-                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera. \n" +
-                                    "2. Haluskan seluruh bahan bumbu halus.\n" +
-                                    "3. Siapkan juga daun salam dan serai.\n" +
-                                    "4. Tumis bumbu halus bersama dengan serai dan daun salam. Tumis hingga harum dan warna bumbu menjadi lebih gelap.\n" +
-                                    "5. Setelah bumbu harum, masukkan daging sapi, aduk aduk hingga daging sedikit menyusut.\n" +
-                                    "6. Tambahkan kurang lebih 3 - 4 gelas air, bumbui dengan garam, lada dan kaldu bubuk. Masak kembali dengan api kecil hingga airnya sedikit menyusut untuk mematangkan daging.\n" +
-                                    "7. Sambil menunggu air pada daging menyusut, sisir gula aren (jumlah yang difoto hanya ± 1 sdm, tapi sebenarnya sewaktu tes rasa, saya tambahkan kembali gula aren sesuai takaran pada daftar bahan).\n" +
-                                    "8. Larutkan asam jawa matang dalam ± 3 sdm air.\n" +
-                                    "9. Setelah air pada daging mulai menyusut, tambahkan gula aren yang sudah disisir. Tambahkan pula air asam jawa, kecap manis dan kayu manis. Masak hingga bumbu menyusut sambil sesekali diaduk agar tidak hangus.\n"  +
-                                    "10. Selesai, siap dinikmati.\n"
-
+                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127697-1000xauto-makanan-khas-jawa-barat.jpg",
+                            "Bahan:\n" +
+                                    "- 350 gr kacang merah segar.\n" +
+                                    "- 1 lt air/kaldu daging.\n" +
+                                    "- 1bh tomat, potong 8.\n" +
+                                    "- 2 lbr daun salam.\n" +
+                                    "- 2 cm lengkuas.\n" +
+                                    "- 2 sdm asam jawa + 4sdm air, peras.\n" +
+                                    "- Garam, gula, merica.\n" +
+                                    "\n" +
+                                    "Bahan halus:\n" +
+                                    "- 4 bh cabai merah besar.\n" +
+                                    "- 8 bh bawang merah.\n" +
+                                    "- 4 siung bawang putih.\n" +
+                                    "- 1 sdt terasi bakar.\n" +
+                                    "- 3 sdm gula merah.\n" +
+                                    "- 1 sdm garam.\n",
+                            "Langkah masak:\n" +
+                                    "a. Rebus kacang merah, tiriskan, buang airnya.\n" +
+                                    "b. Didihkan kembali bersama bahan-bahan lain dan bumbu halus didalam air atau kaldu daging.\n" +
+                                    "c. Kecilkan api, masak hingga kacang lunak dan kuah tersisa 3/4 nya.\n" +
+                                    "d. Tambahkan garam, gula dan merica sesuai selera.\n" +
+                                    "e. Sayur asam kacang bereum siap disajikan.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Tumis Kulit Melinjo Khas Banten",
+                            "Pesmol ikan nila",
                             "Kompor",
-                            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2019%2F07%2F31%2F070000%2Ftumis-kulit-melinjo-teri-lembut-dan-gurih-kreasi-yang-bikin-makan-lahap&psig=AOvVaw35YhplqIqyM4g4mRZYVXAH&ust=1612027171925000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj45KrTwe4CFQAAAAAdAAAAABAD",
-                            "1 bungkus kulit melinjo\n" +
-                                    "segenggam teri nasi\n" +
-                                    "7 buah cabe hijau (atau sesuai selera)\n" +
-                                    "3 sdm minyak sayur\n" +
-                                    "3 buah bawang putih\n" +
-                                    "5 buah bawah merah\n" +
-                                    "3 lembar daun jeruk\n" +
-                                    "1 ruas lengkuas (geprek)\n" +
-                                    "100 ml air\n" +
-                                    "secukupnya garam, gulput, merica bubuk dan penyedap\n",
-                            "1. Cuci bersih kulit melinjo, belah 2 memanjang atau sesuai selera. Lalu rebus kurleb 5 menit supaya tidak langu. Angkat dan tiriskan.\n" +
-                                    "2. Tumis teri yg sdh dicuci bersih (jangan terlalu kering), tambahkan irisan bawang merah, bawang putih, daun jeruk, lengkuas geprek dan cabe hijau yg sdh dipotong2.\n" +
-                                    "3. Masukkan kulit melinjo, aduk rata. Tambahkan air, garam, gulput, merica bubuk dan penyedap.\n" +
-                                    "4. Cek rasa, tumis kulit melinjo khas Banten siap dihidangkan."
+                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127699-1000xauto-makanan-khas-jawa-barat.jpg",
+                            "Bahan:\n" +
+                                    "- 2 ekor ikan nila ukuran sedang, siangi dan cuci bersih.\n" +
+                                    "- 1/2 sdt garam.\n" +
+                                    "- 1 buah jeruk nipis.\n" +
+                                    "- Minyak secukupnya untuk menggoreng.\n" +
+                                    "\n" +
+                                    "Bahan halus:\n" +
+                                    "- 5 siung bawang merah.\n" +
+                                    "- 3 siung bawang putih.\n" +
+                                    "- 3 buah cabe merah besar/keriting.\n" +
+                                    "- 3 cm kunyit.\n" +
+                                    "- 2 cm jahe.\n" +
+                                    "- 3 btr kemiri.\n" +
+                                    "- Kaldu bubuk secukupnya.\n" +
+                                    "- Daun jeruk utuh.\n" +
+                                    "- 1 sdt garam.\n" +
+                                    "- 2 sdt gula pasir.\n" +
+                                    "- 300 ml air.\n" +
+                                    "\n" +
+                                    "Bahan pelengkap:\n" +
+                                    "- Secukupnya daun bawang, iris serong.\n" +
+                                    "- 1 buah tomat, potong-potong.\n" +
+                                    "- 10 buah cabe rawit.\n",
+                            "Langkah masak :\n" +
+                                    "a. Lumuri ikan bersih dgn garam & jeruk nipis, goreng.\n" +
+                                    "b. Tumis bumbu halus + daun jeruk hingga harum.\n" +
+                                    "c. Tambahkan gula, garam dan kaldu bubuk, aduk rata & test rasa.\n" +
+                                    "d. Masukkan daun bawang, tomat & cabe rawit, aduk rata dan masak sebentar hingga agak layu, matikan api.\n" +
+                                    "e. Campurkan ikan goreng dgn kuah bumbu nya.\n" +
+                                    "f. Sajikan dgn nasi hangat dan kerupuk."
                     )
+            )
+            list.add(
+                ListObjResep(
+                    "Nasi tutug oncom",
+                    "Kompor",
+                    "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127700-makanan-khas-jawa-barat.jpg",
+                    "Bahan:\n" +
+                            "- 2 kotak oncom, cabik-cabik menggunakan garpu.\n" +
+                            "- 5 buah cabai merah keriting.\n" +
+                            "- 5 buah cabai rawit.\n" +
+                            "- 6 siung bawang merah.\n" +
+                            "- 2 siung bawang putih.\n" +
+                            "- 2 cm kencur.\n" +
+                            "- 1/2 sdt terasi bakar.\n" +
+                            "- Garam sesuai selera.",
+                    "Langkah masak:\n" +
+                            "a. Panggang oncom beserta bumbu-bumbu kecuali kencur, hingga mengering.\n" +
+                            "b. Haluskan bumbu dan campurkan dengan oncom. Aduk dengan nasi hangat.\n" +
+                            "c. Nasi tutug oncom siap disajikan."
+                )
+            )
+            list.add(
+                ListObjResep(
+                    "Soto Mi",
+                    "Kompor",
+                    "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127701-1000xauto-makanan-khas-jawa-barat.jpg",
+                    "Bahan:\n" +
+                            "- 500 gram daging sapi, potong-potong.\n" +
+                            "- 2 buah wortel, potong-potong.\n" +
+                            "- 2 liter air.\n" +
+                            "\n" +
+                            "Bahan bumbu:\n" +
+                            "- 2 cm lengkuas, memarkan.\n" +
+                            "- 2 cm jahe, memarkan.\n" +
+                            "- 1 batang sereh, geprek.\n" +
+                            "- 3 lembar daun salam.\n" +
+                            "- 2 lembar daun jeruk.\n" +
+                            "- 1 buah biji pala, parut.\n" +
+                            "- 1/2 sdt kunyit bubuk.\n" +
+                            "- 1/2 sdt ketumbar bubuk.\n" +
+                            "- 2 sdm kecap manis.\n" +
+                            "- 1/2 sdt merica.\n" +
+                            "- 1 sdm gula.\n" +
+                            "- 1 sdm garam.\n" +
+                            "\n" +
+                            "Bahan bumbu halus:\n" +
+                            "- 10 buah bawang merah.\n" +
+                            "- 5 siung bawang putih.\n" +
+                            "- 5 butir kemiri.\n" +
+                            "\n" +
+                            "Bahan pelengkap:\n" +
+                            "- Mi kuning atau mi telur, rebus terlebih dahulu.\n" +
+                            "- Kol, ris halus.\n" +
+                            "- Tomat, risol bihun, bawang goreng, daun bawang, iris tipis.\n" +
+                            "- Jeruk nipis, kecap manis, cuka sedikit, dan sambal.\n",
+                    "Langkah masak:\n" +
+                            "a. Tumis bumbu halus dan bumbu hingga harum dengan sedikit minyak goreng.\n" +
+                            "b. Setelah bumbu harum masukkan air dan masak hingga mendidih. c. c. Masukkan daging sapi dan masak hingga daging empuk kemudian masukkan wortel.\n" +
+                            "d. Masak hingga bumbu meresap dan wortel matang. Koreksi rasa.\n" +
+                            "e. Susun mi, kol, tomat, risol bihun ke dalam mangkuk dan tuang kuah panas-panas.\n" +
+                            "f. Soto mi siap disajikan dengan bahan pelengkap lainnya.\n"
+                )
             )
             return list
         }

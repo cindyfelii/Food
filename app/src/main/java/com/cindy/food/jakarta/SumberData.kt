@@ -125,7 +125,7 @@ class SumberData {
                             "1.Masukkan semua bahan bumbu ke dalam blender, kecuali air, lalu haluskan. Setelah itu, \n" +
                             "tuang ke dalam panci kecil bersama dengan air dan didihkan. \n" +
                             "2.Letakkan semua bahan sayur ke atas piring, lalu siram dengan kuah yang telah matang. \n" +
-                            "Taburkan kacang dan kerupuk di atasnya. Asinan Betawi siap disajikan!\n"
+                            "Taburkan kacang dan kerupuk di atasnya. Asinan Betawi siap disajikan\n"
                 )
             )
             return list

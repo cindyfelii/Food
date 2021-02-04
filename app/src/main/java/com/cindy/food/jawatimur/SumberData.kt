@@ -7,68 +7,153 @@ class SumberData {
         fun buatSetData(): ArrayList<ListObjResep> {
             val list = ArrayList<ListObjResep>()
             list.add(
-                    ListObjResep(
-                            "Rabeg Sapi Banten",
-                            "Wadah\n" +
-                                    "Panci",
-                            "https://img-global.cpcdn.com/recipes/3a01d5de7fdd2f67/751x532cq70/rabeg-sapi-banten-foto-resep-utama.webp",
-                            "500 gram daging sapi\n" +
-                                    "1 batang serai\n" +
-                                    "2 lembar daun salam\n" +
-                                    "1 ruas kayu manis\n" +
-                                    "5 sdm gula aren\n" +
-                                    "1 sdm asam jawa matang\n" +
-                                    "1 sdm kecap manis\n" +
-                                    "2secukupnya garam\n" +
-                                    "secukupnya lada\n" +
-                                    "secukupnya kaldu bubuk\n" +
-                                    "secukupnya minyak goreng\n" +
-                                    "secukupnya air\n" +
-                                    "Bumbu Halus\n" +
-                                    "5 siung bawang merah\n" +
-                                    "5 siung bawang putih\n" +
-                                    "4 buah cabai merah keriting\n" +
-                                    "cabai rawit (sesuai selera, me : 20 buah)\n" +
-                                    "1 buah tomat (me : ukuran sedang)\n" +
-                                    "5 butir kemiri (sangrai)\n" +
-                                    "1 ruas jahe\n" +
-                                    "1 ruas kunyit\n" +
-                                    "1 ruas lengkuas\n" +
-                                    "1 sdm ketumbar bubuk\n",
-                            "Langkah\n" +
-                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera. \n" +
-                                    "2. Haluskan seluruh bahan bumbu halus.\n" +
-                                    "3. Siapkan juga daun salam dan serai.\n" +
-                                    "4. Tumis bumbu halus bersama dengan serai dan daun salam. Tumis hingga harum dan warna bumbu menjadi lebih gelap.\n" +
-                                    "5. Setelah bumbu harum, masukkan daging sapi, aduk aduk hingga daging sedikit menyusut.\n" +
-                                    "6. Tambahkan kurang lebih 3 - 4 gelas air, bumbui dengan garam, lada dan kaldu bubuk. Masak kembali dengan api kecil hingga airnya sedikit menyusut untuk mematangkan daging.\n" +
-                                    "7. Sambil menunggu air pada daging menyusut, sisir gula aren (jumlah yang difoto hanya ± 1 sdm, tapi sebenarnya sewaktu tes rasa, saya tambahkan kembali gula aren sesuai takaran pada daftar bahan).\n" +
-                                    "8. Larutkan asam jawa matang dalam ± 3 sdm air.\n" +
-                                    "9. Setelah air pada daging mulai menyusut, tambahkan gula aren yang sudah disisir. Tambahkan pula air asam jawa, kecap manis dan kayu manis. Masak hingga bumbu menyusut sambil sesekali diaduk agar tidak hangus.\n"  +
-                                    "10. Selesai, siap dinikmati.\n"
-
-                    )
+                ListObjResep(
+                    "Rawon",
+                    "Wadah\n" +
+                            "Panci",
+                    "https://cdn-brilio-net.akamaized.net/news/2020/04/02/181608/1201151-1000xauto-resep-jawa-timur.jpg",
+                    "Bahan:\n" +
+                            "- 1/2 kg daging sapi.\n" +
+                            "- 2 batang serai geprek.\n" +
+                            "- 1 ruas jahe dan laos geprek.\n" +
+                            "- 3 lembar daun jeruk.\n" +
+                            "- 2 lembar salam.\n" +
+                            "- 1 batang daun bawang potong-potong.\n" +
+                            "- 1, 5 l air.\n" +
+                            "- 1 sdm gula.\n" +
+                            "- 1 sdm garam.\n" +
+                            "- 1/2 sdm kaldu sapi bubuk.\n" +
+                            "- 1/2 sdt merica bubuk.\n" +
+                            "- 1 sdt jinten bubuk.\n" +
+                            "\n" +
+                            "Bahan bumbu halus:\n" +
+                            "- 6 siung bawang putih.\n" +
+                            "- 4 butir bawang merah.\n" +
+                            "- 3 butir kemiri sangrai.\n" +
+                            "- 1/2 sdt ketumbar.\n" +
+                            "- 3 buah kluwek.\n" +
+                            "- 2 cm kunyit.\n",
+                    "Cara membuat:\n" +
+                            "a. Cuci bersih daging, potong dadu, lalu rebus dengan sedikit air mendidih sekitar 1 menit, untuk menghilangkan bau amis.\n" +
+                            "b. Haluskan bumbu, lalu tumis sampai matang.\n" +
+                            "c. Tiriskan daging, lalu rebus lagi dengan 1,5 liter air. Masukkan daun jeruk, salam, serai, laos dan jahe.\n" +
+                            "d. Tunggu mendidih dan masukkan bumbu halus, beri garam, gula, merica, kaldu dan jinten. Masak hingga daging empuk atau matang.\n" +
+                            "e. Taburi daun bawang. Angkat dan hidangkan dengan pelengkap sesuai selera.\n"
+                )
             )
             list.add(
-                    ListObjResep(
-                            "Tumis Kulit Melinjo Khas Banten",
-                            "Kompor",
-                            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2019%2F07%2F31%2F070000%2Ftumis-kulit-melinjo-teri-lembut-dan-gurih-kreasi-yang-bikin-makan-lahap&psig=AOvVaw35YhplqIqyM4g4mRZYVXAH&ust=1612027171925000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj45KrTwe4CFQAAAAAdAAAAABAD",
-                            "1 bungkus kulit melinjo\n" +
-                                    "segenggam teri nasi\n" +
-                                    "7 buah cabe hijau (atau sesuai selera)\n" +
-                                    "3 sdm minyak sayur\n" +
-                                    "3 buah bawang putih\n" +
-                                    "5 buah bawah merah\n" +
-                                    "3 lembar daun jeruk\n" +
-                                    "1 ruas lengkuas (geprek)\n" +
-                                    "100 ml air\n" +
-                                    "secukupnya garam, gulput, merica bubuk dan penyedap\n",
-                            "1. Cuci bersih kulit melinjo, belah 2 memanjang atau sesuai selera. Lalu rebus kurleb 5 menit supaya tidak langu. Angkat dan tiriskan.\n" +
-                                    "2. Tumis teri yg sdh dicuci bersih (jangan terlalu kering), tambahkan irisan bawang merah, bawang putih, daun jeruk, lengkuas geprek dan cabe hijau yg sdh dipotong2.\n" +
-                                    "3. Masukkan kulit melinjo, aduk rata. Tambahkan air, garam, gulput, merica bubuk dan penyedap.\n" +
-                                    "4. Cek rasa, tumis kulit melinjo khas Banten siap dihidangkan."
-                    )
+                ListObjResep(
+                    "Rujak cingur",
+                    "Kompor",
+                    "https://cdn-brilio-net.akamaized.net/news/2020/04/02/181608/1201152-1000xauto-resep-jawa-timur.jpg",
+                    "Bahan:\n" +
+                            "- Lontong secukupnya.\n" +
+                            "- Tahu dan tempe goreng secukupnya.\n" +
+                            "- 250 gr cingur sapi, rebus empuk (bumbui bawang putih, ketumbar dan garam), goreng sebentar, potong-potong.\n" +
+                            "- 1 buah mentimun.\n" +
+                            "- 1 ikat kangkung, rebus.\n" +
+                            "- 1 ikat kecil kacang panjang, potong dan rebus.\n" +
+                            "- 1 genggam tauge, rendam air panas.\n" +
+                            "\n" +
+                            "Bahan bumbu ulek:\n" +
+                            "- 3 sdm kacang goreng.\n" +
+                            "- 1/2 buah pisang batu/pisang kluthuk, diserut atau parut kasar.\n" +
+                            "- 1 sdm gula merah sisir.\n" +
+                            "- Sejumput garam.\n" +
+                            "- Sejumput terasi.\n" +
+                            "- 1/2 siung bawang putih goreng.\n" +
+                            "- Cabai rawit dengan tangkainya, sesuai selera.\n" +
+                            "- 1 sdm penuh petis udang.\n" +
+                            "- Air asam jawa secukupnya.\n",
+                    "Cara membuat:\n" +
+                            "a. Haluskan semua bahan kecuali air asam jawa.\n" +
+                            "b. Tambahkan air asam jawa hingga mendapatkan kekentalan yang pas, koreksi rasa dan masukkan semua bahan rujak\n" +
+                            "c. Aduk jadi satu hingga rata.\n" +
+                            "d. Siap disajikan.\n"
+                )
+            )
+            list.add(
+                ListObjResep(
+                    "Soto ayam Lamongan",
+                    "Kompor",
+                    "https://cdn-brilio-net.akamaized.net/news/2020/04/02/181608/1201154-1000xauto-resep-jawa-timur.jpg",
+                    "Bahan:\n" +
+                            "- 1 ekor ayam.\n" +
+                            "- 2,5 liter air.\n" +
+                            "- garam secukupnya.\n" +
+                            "- kaldu bubuk secukupnya.\n" +
+                            "\n" +
+                            "Bahan bumbu halus:\n" +
+                            "- 13 siung bawang merah.\n" +
+                            "- 9 siung bawang putih.\n" +
+                            "- 6 butir kemiri, sangrai.\n" +
+                            "- 4 cm kunyit, sangrai.\n" +
+                            "- 1 sdt ketumbar bubuk.\n" +
+                            "- 1 sdt lada bubuk.\n" +
+                            "- 8 cm jahe, kupas.\n" +
+                            "- 7 cm laos.\n" +
+                            "\n" +
+                            "Bahan bumbu tambahan:\n" +
+                            "- 4 lembar salam.\n" +
+                            "- 7 lembar daun jeruk.\n" +
+                            "- 2 batang serai, geprek.\n" +
+                            "- 2 buah asam kandis.\n" +
+                            "\n" +
+                            "Bahan pelengkap:\n" +
+                            "- telur rebus.\n" +
+                            "- daun bawang.\n" +
+                            "- seledri.\n" +
+                            "- tomat.\n" +
+                            "- taoge seduh.\n" +
+                            "- kol seduh.\n" +
+                            "- bihun seduh.\n" +
+                            "- sambal rawit.\n" +
+                            "- bawang merah goreng.\n" +
+                            "- koya (bawang putih goreng kering, tumbuk).\n",
+                    "Cara membuat:\n" +
+                            "a. Didihkan air, masukkan ayam dan bumbu tambahan. Rebus sampai ayam empuk.\n" +
+                            "b. Selagi merebus, tumis bumbu halus sampai matang.\n" +
+                            "c. Masukan tumisan bumbu ke dalam rebusan ayam. Beri garam dan kaldu bubuk.\n" +
+                            "d. Masak hingga meresap. Koreksi rasa. Matikan api.\n" +
+                            "e. Angkat ayam, tiriskan, goreng lalu suir-suir ayam. Tempatkan pada wadah.\n" +
+                            "f. Sajikan soto lamongan bersama ayam suir dan pelengkapnya.\n"
+                )
+            )
+            list.add(
+                ListObjResep(
+                    "Tahu tek",
+                    "Kompor",
+                    "https://cdn-brilio-net.akamaized.net/news/2020/04/02/181608/1201155-resep-jawa-timur.jpg",
+                    "Bahan:\n" +
+                            "- 2 buah tahu kotak kecil, potong dadu.\n" +
+                            "- 1 butir telur.\n" +
+                            "- garam.\n" +
+                            "\n" +
+                            "Bumbu kacang petis:\n" +
+                            "- 100 gr kacang tanah, goreng.\n" +
+                            "- 5 siung bawang putih, goreng.\n" +
+                            "- 10 cabai rawit, goreng.\n" +
+                            "- 2 sdm gula pasir.\n" +
+                            "- 1/2 sdm petis udang.\n" +
+                            "- 1/2 sdt kaldu jamur.\n" +
+                            "- 1/2 sdt garam.\n" +
+                            "- 3 sdm kecap manis.\n" +
+                            "- Air secukupnya.\n" +
+                            "\n" +
+                            "Bahan pelengkap:\n" +
+                            "- segenggam tauge, rebus.\n" +
+                            "- lontong.\n" +
+                            "- bawang goreng.\n" +
+                            "- mentimun.\n",
+                    "Cara membuat:\n" +
+                            "a. Haluskan dengan sebagian kacang tanah, cabai, bawang putih, gula, air dan petis udang sampai halus.\n" +
+                            "b. Jika sudah halus masukkan sisa kacang tanah, giling sebentar saja, agar tekstur kasar kacangnya masih ada.\n" +
+                            "c. Pindahkan ke dalam mangkok saus kacang, tambahkan kaldu jamur dan kecap sesuai selera. Jika saus masih kental bisa tambahkan air, aduk rata, koreksi rasa.\n" +
+                            "d. Siapkan mangkok, kocok telur dan garam sampai berbusa. Masukkan tahu, aduk rata.\n" +
+                            "e. Goreng telur dengan minyak agak banyak dan panas, angkat.\n" +
+                            "f. Tata di piring, lontong, telur, mentimun, taoge, siram dengan saus kacang petis beri taburan bawang goreng.\n" +
+                            "g. Sajikan.\n"
+                )
             )
             return list
         }
