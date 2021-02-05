@@ -36,7 +36,7 @@ class SumberData {
                                     "1 ruas lengkuas\n" +
                                     "1 sdm ketumbar bubuk\n",
                             "Langkah\n" +
-                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera. \n" +
+                                    "1. Perlakukan daging sapi seperti pada tips terlampir agar daging empuk. Lalu potong-potong sesuai selera anda. \n" +
                                     "2. Haluskan seluruh bahan bumbu halus.\n" +
                                     "3. Siapkan juga daun salam dan serai.\n" +
                                     "4. Tumis bumbu halus bersama dengan serai dan daun salam. Tumis hingga harum dan warna bumbu menjadi lebih gelap.\n" +
