@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_round"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -152,6 +152,60 @@
         <activity android:name=".yogya.yogyakarta"></activity>
         <activity android:name=".yogya.Activity_ke24"></activity>
         <activity android:name=".yogya.DetilResep"></activity>
+
+
+        <activity android:name=".sumaterautara.ListSumateraUtara"></activity>
+        <activity android:name=".sumaterautara.sumaterautara"></activity>
+        <activity android:name=".sumaterautara.Activity_ke25"></activity>
+        <activity android:name=".sumaterautara.DetilResep"></activity>
+
+
+        <activity android:name=".aceh.ListAceh"></activity>
+        <activity android:name=".aceh.aceh"></activity>
+        <activity android:name=".aceh.Activity_ke26"></activity>
+        <activity android:name=".aceh.DetilResep"></activity>
+
+
+        <activity android:name=".sumaterabarat.ListSumateraBarat"></activity>
+        <activity android:name=".sumaterabarat.sumaterabarat"></activity>
+        <activity android:name=".sumaterabarat.Activity_ke27"></activity>
+        <activity android:name=".sumaterabarat.DetilResep"></activity>
+
+
+        <activity android:name=".sumateraselatan.ListSumateraSelatan"></activity>
+        <activity android:name=".sumateraselatan.sumateraselatan"></activity>
+        <activity android:name=".sumateraselatan.Activity_ke28"></activity>
+        <activity android:name=".sumateraselatan.DetilResep"></activity>
+
+
+        <activity android:name=".jambi.ListJambi"></activity>
+        <activity android:name=".jambi.jambi"></activity>
+        <activity android:name=".jambi.Activity_ke29"></activity>
+        <activity android:name=".jambi.DetilResep"></activity>
+
+
+        <activity android:name=".bangkabelitung.ListBangkaBelitung"></activity>
+        <activity android:name=".bangkabelitung.bangkabelitung"></activity>
+        <activity android:name=".bangkabelitung.Activity_ke30"></activity>
+        <activity android:name=".bangkabelitung.DetilResep"></activity>
+
+
+        <activity android:name=".bandarlampung.ListBandarLampung"></activity>
+        <activity android:name=".bandarlampung.bandarlampung"></activity>
+        <activity android:name=".bandarlampung.Activity_ke31"></activity>
+        <activity android:name=".bandarlampung.DetilResep"></activity>
+
+
+        <activity android:name=".kepulauanriau.ListKepulauanRiau"></activity>
+        <activity android:name=".kepulauanriau.kepulauanriau"></activity>
+        <activity android:name=".kepulauanriau.Activity_ke32"></activity>
+        <activity android:name=".kepulauanriau.DetilResep"></activity>
+
+
+        <activity android:name=".bengkulu.ListBengkulu"></activity>
+        <activity android:name=".bengkulu.bengkulu"></activity>
+        <activity android:name=".bengkulu.Activity_ke33"></activity>
+        <activity android:name=".bengkulu.DetilResep"></activity>
     </application>
 
 </manifest>
