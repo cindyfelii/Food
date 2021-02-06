@@ -8,235 +8,156 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Gudeg",
+                            "Gulai Ayam Talang",
                             "Wadah\n" +
                                     "Panci",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256490-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 1 kilogram nangka muda, cuci bersih, tiriskan\n" +
-                                    "- 1/4 kilogram kelapa tua, parut, ambil santannya\n" +
-                                    "- 200 gram daging sapi\n" +
-                                    "- 4 butir telur rebus\n" +
-                                    "\n" +
-                                    "Bumbu halus:\n" +
-                                    "- 10 siung bawang merah\n" +
-                                    "- 5 siung bawang putih\n" +
-                                    "- 6 buah kemiri sangrai\n" +
-                                    "\n" +
-                                    "Bumbu rebusan:\n" +
-                                    "- 1 bongkah besar gula merah, sisir\n" +
-                                    "- 1 sendok makan ketumbar bubuk\n" +
-                                    "- 2 ruas lengkuas, memarkan\n" +
-                                    "- 5 batang serai, memarkan\n" +
-                                    "- 7 lembar daun jeruk\n" +
-                                    "- 7 lembar daun salam\n" +
-                                    "- Garam secukupnya\n" ,
+                            "https://img-global.cpcdn.com/recipes/c36df74d30c5b3cb/751x532cq70/gulai-ayam-talang-khas-jambi-foto-resep-utama.webp",
+                            "Bahan-bahan\n" +
+                                    "1 kg ayam\n" +
+                                    "10 siung bawang merah\n" +
+                                    "3 siung bawang putih\n" +
+                                    "1 batang sereh\n" +
+                                    "2 lembar daun jeruk\n" +
+                                    "2 lembar daun salam\n" +
+                                    "2 ruas Lengkuas\n" +
+                                    "1 ruas jahe\n" +
+                                    "1/2 sdt ketumbar bubuk\n" +
+                                    "3 ruas Kunyit (saya pake 1/2 sdt kunyit bubuk)\n" +
+                                    "secukupnya Garam dan gula\n" +
+                                    "1 ons cabe rawit hijau\n" +
+                                    "2,5 gelas air\n" +
+                                    "1 buah asam kandis (bisa ganti tomat atau jeruk nipis)\n",
+                            "Langkah :\n" +
+                                    "- Siapkan bahan2nya\n" +
+                                    "- Cuci bersih ayam yang sudah dipotong2. uleg halus cabe rawit, jahe,kunyit dan duo bawang. \n" +
+                                    "Geprek lengkuas dan sereh lalu simpulkan\n" +
+                                    "- Tumis bumbu halus dan ketumbar bubuk hingga wangi, masukkan daun jeruk, salam, lengkuas, \n" +
+                                    "sereh dan asam kandis, tumis hingga sedikit layu.\n" +
+                                    "- Masukkan ayam aduk sebentar, masukkan air, beri garam dan gula, tes rasa, lalu masak hingga \n" +
+                                    "mendidih dan ayam matang.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Sate Tempe Rangkayo",
+                            "Kompor",
+                            "https://img-global.cpcdn.com/recipes/c6b3884e73f04c64/751x532cq70/419-sate-tempe-rangkayo-hitam-khas-jambi-foto-resep-utama.webp",
+                            "Bahan-bahan\n" +
+                                    " 10 tusuk\n" +
+                                    "200 gram Tempe; potong dadu menjadi 40 kotak (aslinya 100gr)\n" +
+                                    "2 lembar Daun jeruk; buang tulangnya\n" +
+                                    "1 lembar Daun salam\n" +
+                                    "1 bungkus Santan instan (Sasa)\n" +
+                                    "150 ml Air (tambahan dari saya)\n" +
+                                    "1 sdm Kecap manis\n" +
+                                    "1/4 sdt Garam\n" +
+                                    "2 sdm Minyak goreng; untuk menumis\n" +
+                                    "\uD83D\uDCCC Bumbu Halus:\n" +
+                                    "25 gram Kacang tanah goreng\n" +
+                                    "4 siung Bawang putih (Bawang putih)\n" +
+                                    "3 siung Bawang merah (Bawang merah)\n" +
+                                    "2 buah Cabe kriting merah\n" +
+                                    "1 sdm Gula jawa\n" +
+                                    "1/2 sdm Ketumbar bubuk\n" +
+                                    "\uD83D\uDCCC Pelengkap:\n" +
+                                    "Tusuk sate\n" +
+                                    "Jeruk limau\n" +
+                                    "Bawang goreng\n",
+                            "Langkah :\n" +
+                                    "- Siapkan bahan-bahannya. Kemudian haluskan Bumbu halus.\n" +
+                                    "- Selanjutnya, panaskan Minyak goreng kemudian tumis Bumbu halus. Lalu tambahkan Daun jeruk dan Daun salam hingga harum dan matang. Kemudian tambahkan Santan, Air, dan Kecap manis, aduk rata.\n" +
+                                    "- Setelah itu, masukan Tempe, aduk rata, masak hingga bumbu meresap.\n" +
+                                    "- Kemudian angkat Tempenya saja, lalu tusuk Tempe dengan tusuk sate. Lakukan hingga Tempe habis. Kemudian panggang dengan teflon hingga sate tempe matang.\n" +
+                                    "- Setelah itu, kentalkan sisa bumbu santan hingga berminyak dengan api kecil. Angkat.\n" +
+                                    "- Letakan sate tempe dalam piring saji, lalu siram dengan bumbu santan. Beri perasan jeruk limau dan taburi bawang goreng. Sate Tempe Rangkayo Hitam pun siap disantap. Selamat mencoba yaa\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Pepes peda bakar",
+                            "Kompor",
+                            "https://img-global.cpcdn.com/recipes/c898e384179e1da8/751x532cq70/pepes-peda-bakar-jambi-foto-resep-utama.webp",
+                            "Bahan-bahan\n" +
+                                    " 2 orang\n" +
+                                    "2 ekor ikan peda (aku ganti jd ikan asin yg mirip peda tp gak tau namanya)\n" +
+                                    "1 ons cabe merah\n" +
+                                    "1 buah tomat ukuran sedang\n" +
+                                    "6 buah bawang merah yang agak besar\n" +
+                                    "Rawit sesuai selera (aku 10 rawit)\n" +
+                                    "1 ikat daun singkong\n",
+                            "Langkah :\n" +
+                                    "- Haluskan cabe, bawang dan tomat dengan sedikit air- sisihkan\n" +
+                                    "- Bersihkan peda, buang kepala dan isi perutnya\n" +
+                                    "- Tata daun pisang di atas talenan, susun daun singkong diatasnya, lalu tarok 1 ikan peda dan siramkan dengan sambel yang sudah dihaluskan, bungkus rapi dan kukus 15 menit\n" +
+                                    "- Setelah kukus, angkat dan bakar di teflon dengan api yang supeeeerr kecil tunggu sampai kering (kurang lebih 1 jam), angkat dan sajikan\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Sate Tempe Rangkayo Hitam",
+                            "Kompor",
+                            "Sate Tempe Rangkayo Hitam",
+                            "Bahan-bahan\n" +
+                                    " 7 tusuk\n" +
+                                    "225 gram tempe, potong dadu\n" +
+                                    "4 lembar daun salam\n" +
+                                    "2 lembar daun jeruk\n" +
+                                    "1 sdm kecap manis\n" +
+                                    "15 sdm santan dengan kekentalan sedang\n" +
+                                    "1,5 sdm gula merah\n" +
+                                    "100 ml air\n" +
+                                    "Secukupnya garam\n" +
+                                    "Secukupnya gula pasir\n" +
+                                    "2 sdm minyak goreng\n" +
+                                    "Bumbu Halus :\n" +
+                                    "50 gr kacang tanah goreng\n" +
+                                    "5 siung bawang merah\n" +
+                                    "8 siung bawang putih\n" +
+                                    "2 buah cabe keriting\n" +
+                                    "5 buah cabe rawit merah (me : skip)\n" +
+                                    "1 sdm ketumbar bubuk\n" +
+                                    "Bahan Pelengkap:\n" +
+                                    "Secukupnya tusukan sate\n" +
+                                    "Secukupnya bawang merah goreng\n" +
+                                    "Secukupnya air perasan jeruk limau\n" ,
+                            "Langkah :\n" +
+                                    "-Siapkan semua bahan.\n" +
+                                    "- Haluskan semua bumbu.\n" +
+                                    "- Panaskan minyak goreng di wajan. Masukkan bumbu halus, daun salam dan daun jeruk. Tumis sampai harum.\n" +
+                                    "- Sate Tempe Rangkayo Hitam Khas Jambi langkah memasak 3 foto\n" +
+                                    "- Masukkan santan, gula merah dan kecap manis. Aduk rata. Masukkan tempe, garam dan gula pasir. Aduk rata dan tes rasa. Masak hingga bumbu meresap dan mengental.\n" +
+                                    "- Angkat tempenya. Tusuk dengan tusukan sate. Lakukan hingga habis. Kemudian panggang sebentar di atas teflon atau grillpan atau alat bakar lainnya hingga muncul aroma bakaran.\n" +
+                                    "- Letakkan sate di atas wadah saji. Siram dengan sisa bumbu tumisan. Kucuri dengan perasan air jeruk limau dan taburi bawang goreng. Sajikan. Selamat mencoba \n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Nasi Gemuk",
+                            "Kompor",
+                            "https://img-global.cpcdn.com/recipes/7a9d038495801774/751x532cq70/nasi-gemuk-jambi-foto-resep-utama.webp",
+                            "Bahan-bahan\n" +
+                                    "2 canting beras\n" +
+                                    "100 ml santan instant\n" +
+                                    "serai\n" +
+                                    "lengkuas geprek\n" +
+                                    "daun salam\n" +
+                                    "garam\n" +
+                                    "bumbu halus :\n" +
+                                    "5 siung bamer\n" +
+                                    "3 siung baput\n" +
+                                    "1 sdt ketumbar\n" +
+                                    "1/2 sdt jinten\n" +
+                                    "Pelengkap :\n" +
+                                    "Teri goreng dan kacang goreng\n" +
+                                    "Telur rebus\n" +
+                                    "Sambal manis merah\n" +
+                                    "Potongan Timun\n" +
+                                    "emping\n" +
+                                    "Daging suwir atau ayam suwir\n",
                             "Langkah\n" +
-                                    "1. Masak semua bahan kecuali telur rebus dengan api kecil sampai air santan menyusut separuhnya.\n" +
-                                    "2. Masukkan telur rebus, kemudian masak lagi hingga air benar-benar kering dan gudeg berwarna cokelat gelap.\n" +
-                                    "3. Keluarkan rempah daun, serai, dan lengkuas, kemudian sajikan gudeg yang sudah matang tadi. \n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Krecek",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256492-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 1/4 kg kerupuk rambak/ krecek\n" +
-                                    "Bumbu:\n" +
-                                    "- 1/2 sdt penyedap rasa\n" +
-                                    "- 4 buah cabai merah\n" +
-                                    "- 4 sdm kecap manis\n" +
-                                    "- 4 siung bawang putih\n" +
-                                    "- 50 gr gula merah\n" +
-                                    "- 6 siung bawang merah\n" +
-                                    "- 8 cabai merah\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Minyak untuk menumis\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Haluskan bawang merah, bawang putih, dan cabai.\n" +
-                                    "2. Tumis bumbu yang sudah dihaluskan, hingga beraroma. Masukkan air secukupnya bersama dengan garam, gula, kecap dan penyedap rasa. Biarkan hingga mendidih.\n" +
-                                    "3. Jika sudah mendidih masukkan krecek atau kerupuk rambak, aduk hingga rata. Tunggu hingga bumbu meresap.\n" +
-                                    "4. Sambal goreng krecek pedas siap disajikan.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Sate Klatak",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256493-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 500 gram daging kambing muda\n" +
-                                    "- 3 lembar daun pepaya\n" +
-                                    "Bumbu yang dihaluskan:\n" +
-                                    "- 1 buah bawang bombay\n" +
-                                    "- 1 ruas jahe\n" +
-                                    "- 1 sdm ketumbar\n" +
-                                    "- 1/2 blok gula merah\n" +
-                                    "- 2 ruas lengkuas\n" +
-                                    "- 3 butir kemiri\n" +
-                                    "- 5 sdm air asam jawa\n" +
-                                    "- 7 siung bawang putih\n" +
-                                    "- Garam dan gula secukupnya\n",
-                            "Cara membuat:\n" +
-                                    "1. Rebus sebentar daging dan lemak sapi, potong kotak-kotak.\n" +
-                                    "2. Bungkus daging dengan daun pepaya, diamkan selama 30 menit agar daging empuk.\n" +
-                                    "3. Tumis bumbu halus sampai harum.\n" +
-                                    "4. Keluarkan daging dari daun pepaya, lumuri daging dengan bumbu halus, tambahkan kecap manis secukupnya. Diamkan selama satu jam.\n" +
-                                    "5. Susun daging selang-seling dengan lemak sapi menggunakan tusukan sate.\n" +
-                                    "6. Bakar sate sampai matang.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Mie lethek",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256494-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 3 lembar mie lethek kering\n" +
-                                    "- 1 buah wortel iris seperti korek\n" +
-                                    "- 1 butir kemiri\n" +
-                                    "- 1 butir telur ayam\n" +
-                                    "- 1/4 buah kubis\n" +
-                                    "- 2 siung bawang merah\n" +
-                                    "- 6 siung bawang putih\n" +
-                                    "- Bawang goreng secukupnya untuk taburan\n" +
-                                    "- Daun bawang dan daun seledri secukupnya\n" +
-                                    "- Garam, merica, dan kecap secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rendam mie lethek dengan air matang sampai lunak, tiriskan.\n" +
-                                    "2. Haluskan bawang merah, bawang putih, dan kemiri.\n" +
-                                    "3. Tumis bumbu halus sampai harum, masukkan telur dan wortel. Setelah wortel agak matang, masukkan irisan kubis, tambahkan kecap.\n" +
-                                    "4. Masukkan mi, daun bawang, dan daun seledri. Aduk hingga rata. Tambahkan garam dan merica. Koreksi rasa.\n" +
-                                    "5. Sajikan mi lethek goreng dengan taburan bawang goreng.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Oseng mercon",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256495-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 500 gr tetelan daging sapi\n" +
-                                    "- 2 lembar daun salam\n" +
-                                    "- 3 sdm minyak goreng\n" +
-                                    "Bumbu halus:\n" +
-                                    "- 1 sdt garam\n" +
-                                    "- 250 gr cabai rawit merah\n" +
-                                    "- 4 siung bawang putih\n" +
-                                    "- 7 siung bawang merah\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rebus tetelan hingga empuk. Tiriskan. Iris kecil-kecil. Sisihkan.\n" +
-                                    "2. Siapkan bumbu yang telah dihaluskan, tambahkan daun salam, aduk.\n" +
-                                    "3. Masukkan tetelan daging sapi. Aduk-aduk hingga bumbu meresap. Sajikan.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Jadah tempe",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256496-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 1 kg ketan\n" +
-                                    "- 2 buah kelapa\n" +
-                                    "- 2 lbr daun pandan\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Daun pisang\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rendam ketan selama minimal 2 jam, boleh lebih tergantung kualitas ketan. Lalu cuci bersih dan tiriskan.\n" +
-                                    "2. Kukus ketan dengan daun pandan selama 40 menit. Sambil menunggu ketan dikukus. Bersihkan kulit ari kelapa lalu parut secara manual, beri garam aduk rata.\n" +
-                                    "3. Campur ketan yang dikukus dengan parutan kelapa, aduk hingga rata. Lalu kukus kembali selama 30 menit.\n" +
-                                    "4. Angkat jika ketan sudah matang dan tidak lengket di tangan.\n" +
-                                    "5. Selagi panas tumbuk ketan hingga halus dan lembut.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Nasi tiwul",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256497-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 1 piring nasi tiwul\n" +
-                                    "- 1 butir telur\n" +
-                                    "- 4 siung bawang putih, cincang atau geprek\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Lada bubuk secukupnya\n" +
-                                    "- Minyak goreng secukupnya\n" +
-                                    "- Penyedap rasa secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Masukkan minyak goreng pada wajan, panaskan dengan api sedang. Kocok lepas telur, kemudian goreng pada wajan. Orak arik hingga matang, kemudian sisihkan.\n" +
-                                    "2. Tumis bawang putih pada wajan yang sama dengan sedikit minyak, tumis hingga beraroma wangi. Kemudian masukkan nasi tiwul, garam, lada, penyedap rasa. Aduk semua bahan menjadi satu hingga rata.\n" +
-                                    "3. Koreksi rasa dan sajikan dengan taburan bawang goreng.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Cenil",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256488-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 150 gr tepung tapioka\n" +
-                                    "- 100 gr tepung terigu\n" +
-                                    "- 2 sdm gula pasir\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Gula merah secukupnya\n" +
-                                    "- Kelapa parut, tambah sedikit garam dan kukus hingga matang\n" +
-                                    "- Pewarna makanan\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Campurkan tepung tapioka dan terigu, tuang beberapa tetes pewarna makanan dan air hangat. Aduk rata dan uleni hingga kalis.\n" +
-                                    "2. Rebus air hingga mendidih.\n" +
-                                    "3. Ambil sedikit adonan dan pulung memanjang, rebus hingga naik ke permukaan.\n" +
-                                    "4. Dalam sebuah panci, didihkan sedikit air, cairkan gula merah dan gula pasir dengan sedikit air hangat. Masak hingga mengental.\n" +
-                                    "5. Sajikan cenil dengan siraman air gula.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Geplak",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256487-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 2 buah kelapa, parut\n" +
-                                    "- 750 gram tepung beras\n" +
-                                    "- 500 gram gula pasir\n" +
-                                    "- 300 ml air matang\n" +
-                                    "- Pewarna makanan\n" +
-                                    "- 1/4 sdt garam\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Ayak tepung beras. Sangrai hingga kering. Tambahkan kelapa parut, aduk rata. Sisihkan sebentar.\n" +
-                                    "2. Rebus air matang bersama gula pasir hingga mendidih dan gula larut.\n" +
-                                    "3. Masukkan adonan tepung dan kelapa ke dalam air rebusan gula. Tambahkan garam, aduk rata hingga mengental dan mendidih. Angkat.\n" +
-                                    "4. Bagi adonan menjadi beberapa bagian dan beri masing-masing bagian dengan pewarna makanan, aduk rata.\n" +
-                                    "5. Ambil adonan, bentuk bulat-bulat kecil sesuai selera.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Kipo",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256489-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 150 gr tepung ketan\n" +
-                                    "- 1/2 sdt vanilla essence\n" +
-                                    "- 100 gr kenapa parut\n" +
-                                    "- 2 keping gula merah\n" +
-                                    "- 2 lembar daun pisang\n" +
-                                    "- 50 gr gula pasir\n" +
-                                    "- 65 ml santan siap pakai\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Mentega secukupnya\n" +
-                                    "- Pasta pandan secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Didihkan air, kemudian masukkan gula pasir dan gula merah. Aduk hingga gula agak larut.\n" +
-                                    "2. Tambahkan kelapa dan vanila essens, masak hingga menyusut dan kering.\n" +
-                                    "3. Campurkan tepung ketan, santan dan pasta pandan, tambahkan juga garam pada wadah yang lain.\n" +
-                                    "4. Uleni adonan dengan menambahkan air sedikit demi sedikit, hingga adonan menjadi kalis\n" +
-                                    "5. Ambil adonan sesuai selera, kemudian isi di tengah adonan dengan isian, dan bentuk adonan menjadi lonjong.\n" +
-                                    "6. Siapkan wajan yang sudah diolesi mentega, lalu taruh selembar daun pisang diatasnya.\n" +
-                                    "7. Taruh kue kipo di atas wajan, gunakan api kecil, dan jangan lupa bolak balik kue kipo. Angkat dan sajikan.\n"
+                                    "Cuci bersih beras, masukan dalam rice cooker (bisa jg ditanak biasa) campurkan santan, garam, air, daun salam, serai, lengkuas dan bumbu halus. Masak hingga matang.\n" +
+                                    "Hidangkan nasi gemuk bersama condiment lainnya seperti telur rebus, sambal, emping, ketimun, teri kacang dan daging/ayam suwir.\n" +
+                                    "Nasi gemuk siap di nikmati\n"
                     )
             )
             return list

@@ -8,33 +8,46 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Gudeg",
+                            "Mie Aceh",
                             "Wadah\n" +
                                     "Panci",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256490-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/07/22/188721/1273624-resep-makanan-aceh.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 1 kilogram nangka muda, cuci bersih, tiriskan\n" +
-                                    "- 1/4 kilogram kelapa tua, parut, ambil santannya\n" +
-                                    "- 200 gram daging sapi\n" +
-                                    "- 4 butir telur rebus\n" +
+                                    "- 500 gr mie kuning\n" +
+                                    "- 150 gr udang\n" +
+                                    "- 100 gr daging sapi, potong kotak-kotak kecil\n" +
+                                    "- 100 gr kol putih, iris\n" +
+                                    "- 100 gr toge\n" +
+                                    "- 1 buah tomat, potong memanjang\n" +
+                                    "- 1 sdm kecap asin\n" +
+                                    "- 2 batang daun bawang, iris halus\n" +
+                                    "- 2 sdm kecap manis\n" +
+                                    "- 4 siung bawang putih, iris\n" +
+                                    "- 4 siung bawang merah, iris\n" +
+                                    "- Garam secukupnya\n" +
+                                    "- Kaldu jamur secukupnya\n" +
+                                    "- 2 sdm minyak untuk menumis\n" +
                                     "\n" +
                                     "Bumbu halus:\n" +
-                                    "- 10 siung bawang merah\n" +
-                                    "- 5 siung bawang putih\n" +
-                                    "- 6 buah kemiri sangrai\n" +
+                                    "- 1 sdt garam\n" +
+                                    "- 1/2 sdt merica\n" +
+                                    "- 1/4 sdt adas manis\n" +
+                                    "- 2 buah kapulaga\n" +
+                                    "- 2 buah kemiri\n" +
+                                    "- 2 sdm bubuk kari india\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 5 buah cabai rawit\n" +
+                                    "- 1 sdm minyak untuk menghaluskan bumbu\n" +
                                     "\n" +
-                                    "Bumbu rebusan:\n" +
-                                    "- 1 bongkah besar gula merah, sisir\n" +
-                                    "- 1 sendok makan ketumbar bubuk\n" +
-                                    "- 2 ruas lengkuas, memarkan\n" +
-                                    "- 5 batang serai, memarkan\n" +
-                                    "- 7 lembar daun jeruk\n" +
-                                    "- 7 lembar daun salam\n" +
-                                    "- Garam secukupnya\n" ,
-                            "Langkah\n" +
-                                    "1. Masak semua bahan kecuali telur rebus dengan api kecil sampai air santan menyusut separuhnya.\n" +
-                                    "2. Masukkan telur rebus, kemudian masak lagi hingga air benar-benar kering dan gudeg berwarna cokelat gelap.\n" +
-                                    "3. Keluarkan rempah daun, serai, dan lengkuas, kemudian sajikan gudeg yang sudah matang tadi. \n"
+                                    "Bahan topping:\n" +
+                                    "- Emping secukupnya\n" +
+                                    "- Telur ceplok/dadar\n",
+                            "Cara membuat:\n" +
+                                    "1. Haluskan semua bumbu lalu tambahkan sedikit minyak. Sisihkan.\n" +
+                                    "2. Tumis bawang merah dan bawang putih, masukkan udang dan daging. Aduk hingga berubah warna.\n" +
+                                    "3. Masukkan bumbu halus dan mie kuning, aduk rata.\n" +
+                                    "4. Tambahkan tauge, kecap manis, garam dan kaldu jamur. Koreksi rasa. Angkat.\n" +
+                                    "5. Sajikan dengan toping di atasnya.\n"
                     )
             )
             list.add(
@@ -91,152 +104,99 @@ class SumberData {
             )
             list.add(
                     ListObjResep(
-                            "Mie lethek",
+                            "Ayam tangkap",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256494-1000xauto-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/07/22/188721/1273625-1000xauto-resep-makanan-aceh.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 3 lembar mie lethek kering\n" +
-                                    "- 1 buah wortel iris seperti korek\n" +
-                                    "- 1 butir kemiri\n" +
-                                    "- 1 butir telur ayam\n" +
-                                    "- 1/4 buah kubis\n" +
-                                    "- 2 siung bawang merah\n" +
-                                    "- 6 siung bawang putih\n" +
-                                    "- Bawang goreng secukupnya untuk taburan\n" +
-                                    "- Daun bawang dan daun seledri secukupnya\n" +
-                                    "- Garam, merica, dan kecap secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rendam mie lethek dengan air matang sampai lunak, tiriskan.\n" +
-                                    "2. Haluskan bawang merah, bawang putih, dan kemiri.\n" +
-                                    "3. Tumis bumbu halus sampai harum, masukkan telur dan wortel. Setelah wortel agak matang, masukkan irisan kubis, tambahkan kecap.\n" +
-                                    "4. Masukkan mi, daun bawang, dan daun seledri. Aduk hingga rata. Tambahkan garam dan merica. Koreksi rasa.\n" +
-                                    "5. Sajikan mi lethek goreng dengan taburan bawang goreng.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Oseng mercon",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256495-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 500 gr tetelan daging sapi\n" +
-                                    "- 2 lembar daun salam\n" +
-                                    "- 3 sdm minyak goreng\n" +
+                                    "- 500 gr daging ayam, potong-potong dan cuci bersih\n" +
+                                    "- 1 lembar daun pandan, potong-potong\n" +
+                                    "- 1 ruas lengkuas\n" +
+                                    "- 2 lembar daun salam koja atau daun kari\n" +
+                                    "- Air secukupnya\n" +
+                                    "\n" +
                                     "Bumbu halus:\n" +
-                                    "- 1 sdt garam\n" +
-                                    "- 250 gr cabai rawit merah\n" +
+                                    "- 1 ruas jahe\n" +
+                                    "- 1 ruas kunyit\n" +
+                                    "- 1 sdt ketumbar\n" +
+                                    "- 1 sdt merica butir\n" +
+                                    "- 2 sdt garam/secukupnya\n" +
                                     "- 4 siung bawang putih\n" +
-                                    "- 7 siung bawang merah\n" ,
+                                    "\n" +
+                                    "Bumbu pelengkap:\n" +
+                                    "- 1 batang serai, memarkan dan potong-potong\n" +
+                                    "- 3 lembar daun pandan agak besar, potong-potong\n" +
+                                    "- 3 siung bawang merah, iris tipis\n" +
+                                    "- 4 lembar daun kari\n" +
+                                    "- 5 lembar daun jeruk\n" +
+                                    "- 7 buah cabai hijau\n",
                             "Cara membuat:\n" +
-                                    "1. Rebus tetelan hingga empuk. Tiriskan. Iris kecil-kecil. Sisihkan.\n" +
-                                    "2. Siapkan bumbu yang telah dihaluskan, tambahkan daun salam, aduk.\n" +
-                                    "3. Masukkan tetelan daging sapi. Aduk-aduk hingga bumbu meresap. Sajikan.\n"
+                                    "1. Campurkan ayam dengan bumbu halus. Masukkan lengkuas, daun pandan dan daun salam koja/kari.\n" +
+                                    "2. Tuang air hingga ayam tenggelam. Aduk rata dan ungkep ayam hingga matang atau kurang lebih 30 menit. Aduk sesekali untuk melihat tingkat kematangannya.\n" +
+                                    "3. Siapkan minyak goreng dan bumbu pelengkap. Goreng ayam ungkep bersama dengan bumbu pelengkap. Goreng hingga matang kecokelatan, angkat dan siap sajikan di piring.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Jadah tempe",
+                            "Udang tumis Aceh",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256496-1000xauto-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/07/22/188721/1273626-1000xauto-resep-makanan-aceh.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 1 kg ketan\n" +
-                                    "- 2 buah kelapa\n" +
-                                    "- 2 lbr daun pandan\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Daun pisang\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rendam ketan selama minimal 2 jam, boleh lebih tergantung kualitas ketan. Lalu cuci bersih dan tiriskan.\n" +
-                                    "2. Kukus ketan dengan daun pandan selama 40 menit. Sambil menunggu ketan dikukus. Bersihkan kulit ari kelapa lalu parut secara manual, beri garam aduk rata.\n" +
-                                    "3. Campur ketan yang dikukus dengan parutan kelapa, aduk hingga rata. Lalu kukus kembali selama 30 menit.\n" +
-                                    "4. Angkat jika ketan sudah matang dan tidak lengket di tangan.\n" +
-                                    "5. Selagi panas tumbuk ketan hingga halus dan lembut.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Nasi tiwul",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256497-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 1 piring nasi tiwul\n" +
-                                    "- 1 butir telur\n" +
-                                    "- 4 siung bawang putih, cincang atau geprek\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Lada bubuk secukupnya\n" +
-                                    "- Minyak goreng secukupnya\n" +
-                                    "- Penyedap rasa secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Masukkan minyak goreng pada wajan, panaskan dengan api sedang. Kocok lepas telur, kemudian goreng pada wajan. Orak arik hingga matang, kemudian sisihkan.\n" +
-                                    "2. Tumis bawang putih pada wajan yang sama dengan sedikit minyak, tumis hingga beraroma wangi. Kemudian masukkan nasi tiwul, garam, lada, penyedap rasa. Aduk semua bahan menjadi satu hingga rata.\n" +
-                                    "3. Koreksi rasa dan sajikan dengan taburan bawang goreng.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Cenil",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256488-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 150 gr tepung tapioka\n" +
-                                    "- 100 gr tepung terigu\n" +
-                                    "- 2 sdm gula pasir\n" +
+                                    "- 250 gr udang\n" +
+                                    "- 1 buah kentang potong dadu\n" +
+                                    "- 1 siung bawang merah\n" +
+                                    "- 2 buah cabe hijau\n" +
                                     "- Air secukupnya\n" +
-                                    "- Gula merah secukupnya\n" +
-                                    "- Kelapa parut, tambah sedikit garam dan kukus hingga matang\n" +
-                                    "- Pewarna makanan\n" ,
+                                    "- Gula dan garam\n" +
+                                    "- Minyak goreng\n" +
+                                    "\n" +
+                                    "Bumbu halus:\n" +
+                                    "- 1 sdt Ketumbar\n" +
+                                    "- 10 buah asam jawa\n" +
+                                    "- 2 siung bawang putih\n" +
+                                    "- 3 siung bawang merah\n" +
+                                    "- 5 buah cabe rawit\n" +
+                                    "- 8 buah cabe merah\n",
                             "Cara membuat:\n" +
-                                    "1. Campurkan tepung tapioka dan terigu, tuang beberapa tetes pewarna makanan dan air hangat. Aduk rata dan uleni hingga kalis.\n" +
-                                    "2. Rebus air hingga mendidih.\n" +
-                                    "3. Ambil sedikit adonan dan pulung memanjang, rebus hingga naik ke permukaan.\n" +
-                                    "4. Dalam sebuah panci, didihkan sedikit air, cairkan gula merah dan gula pasir dengan sedikit air hangat. Masak hingga mengental.\n" +
-                                    "5. Sajikan cenil dengan siraman air gula.\n"
+                                    "1. Bersihkan udang dan cuci hingga bersih.\n" +
+                                    "2. Haluskan semua bumbu halus kemudian sisihkan.\n" +
+                                    "3. Tumis bawang merah, cabe hijau dan bumbu halus hingga harum.\n" +
+                                    "4. Masukkan kentang, aduk hingga matang.\n" +
+                                    "5. Tambahkan air, aduk hingga mendidih. Masukkan udang, masak hingga matang. Sajikan.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Geplak",
+                            "Sambal ganja khas Aceh",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256487-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2020/07/22/188721/1273627-1000xauto-resep-makanan-aceh.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 2 buah kelapa, parut\n" +
-                                    "- 750 gram tepung beras\n" +
-                                    "- 500 gram gula pasir\n" +
-                                    "- 300 ml air matang\n" +
-                                    "- Pewarna makanan\n" +
-                                    "- 1/4 sdt garam\n" ,
+                                    "- 1 kg daging kambing\n" +
+                                    "- 1 buah labu air\n" +
+                                    "- Santan\n" +
+                                    "\n" +
+                                    "Bumbu halus:\n" +
+                                    "- 1/2 buah pala\n" +
+                                    "- 1 batang serai\n" +
+                                    "- 1 sdt lada hitam\n" +
+                                    "- 12 siung bawang merah\n" +
+                                    "- 2 jari jahe\n" +
+                                    "- 2 jari lengkuas\n" +
+                                    "- 3 sdm ketumbar\n" +
+                                    "- 6 buah cengkeh\n" +
+                                    "- 6 buah kapulaga\n" +
+                                    "- 8 siuang bawang putih\n" +
+                                    "- Cabai merah sesuai selera\n" +
+                                    "\n" +
+                                    "Bahan tumis:\n" +
+                                    "- 1 batang serai\n" +
+                                    "- 2 jari lengkuas\n" +
+                                    "- 10 cm kayu manis\n" +
+                                    "- 2 biji bunga lawang\n" +
+                                    "- 1 genggam daun kari\n",
                             "Cara membuat:\n" +
-                                    "1. Ayak tepung beras. Sangrai hingga kering. Tambahkan kelapa parut, aduk rata. Sisihkan sebentar.\n" +
-                                    "2. Rebus air matang bersama gula pasir hingga mendidih dan gula larut.\n" +
-                                    "3. Masukkan adonan tepung dan kelapa ke dalam air rebusan gula. Tambahkan garam, aduk rata hingga mengental dan mendidih. Angkat.\n" +
-                                    "4. Bagi adonan menjadi beberapa bagian dan beri masing-masing bagian dengan pewarna makanan, aduk rata.\n" +
-                                    "5. Ambil adonan, bentuk bulat-bulat kecil sesuai selera.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Kipo",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256489-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 150 gr tepung ketan\n" +
-                                    "- 1/2 sdt vanilla essence\n" +
-                                    "- 100 gr kenapa parut\n" +
-                                    "- 2 keping gula merah\n" +
-                                    "- 2 lembar daun pisang\n" +
-                                    "- 50 gr gula pasir\n" +
-                                    "- 65 ml santan siap pakai\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Mentega secukupnya\n" +
-                                    "- Pasta pandan secukupnya\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Didihkan air, kemudian masukkan gula pasir dan gula merah. Aduk hingga gula agak larut.\n" +
-                                    "2. Tambahkan kelapa dan vanila essens, masak hingga menyusut dan kering.\n" +
-                                    "3. Campurkan tepung ketan, santan dan pasta pandan, tambahkan juga garam pada wadah yang lain.\n" +
-                                    "4. Uleni adonan dengan menambahkan air sedikit demi sedikit, hingga adonan menjadi kalis\n" +
-                                    "5. Ambil adonan sesuai selera, kemudian isi di tengah adonan dengan isian, dan bentuk adonan menjadi lonjong.\n" +
-                                    "6. Siapkan wajan yang sudah diolesi mentega, lalu taruh selembar daun pisang diatasnya.\n" +
-                                    "7. Taruh kue kipo di atas wajan, gunakan api kecil, dan jangan lupa bolak balik kue kipo. Angkat dan sajikan.\n"
+                                    "1. Haluskan semua bumbu. Geprek serai dan lengkuas.\n" +
+                                    "2. Panaskan minyak, masukan bumbu tumis hingga harum, lalu tambahkan bahan bumbu halus.\n" +
+                                    "3. Masukkan daging kambing, tutup sebentar dan tambahkan air. Biarkan sampai mendidih sambil diaduk. Angkat dan sajikan.\n"
                     )
             )
             return list
