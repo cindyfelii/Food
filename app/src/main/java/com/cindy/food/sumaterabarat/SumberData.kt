@@ -6,270 +6,282 @@ class SumberData {
             val list = ArrayList<ListObjResep>()
             list.add(
                     ListObjResep(
-                            "Sayur asam kacang bereum",
+                            "Rendang daging",
                             "Wadah\n" +
                                     "Panci",
-                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127697-1000xauto-makanan-khas-jawa-barat.jpg",
-                            "Bahan:\n" +
-                                    "- 350 gr kacang merah segar.\n" +
-                                    "- 1 lt air/kaldu daging.\n" +
-                                    "- 1bh tomat, potong 8.\n" +
-                                    "- 2 lbr daun salam.\n" +
-                                    "- 2 cm lengkuas.\n" +
-                                    "- 2 sdm asam jawa + 4sdm air, peras.\n" +
-                                    "- Garam, gula, merica.\n" +
-                                    "\n" +
-                                    "Bahan halus:\n" +
-                                    "- 4 bh cabai merah besar.\n" +
-                                    "- 8 bh bawang merah.\n" +
-                                    "- 4 siung bawang putih.\n" +
-                                    "- 1 sdt terasi bakar.\n" +
-                                    "- 3 sdm gula merah.\n" +
-                                    "- 1 sdm garam.\n",
-                            "Langkah masak:\n" +
-                                    "a. Rebus kacang merah, tiriskan, buang airnya.\n" +
-                                    "b. Didihkan kembali bersama bahan-bahan lain dan bumbu halus didalam air atau kaldu daging.\n" +
-                                    "c. Kecilkan api, masak hingga kacang lunak dan kuah tersisa 3/4 nya.\n" +
-                                    "d. Tambahkan garam, gula dan merica sesuai selera.\n" +
-                                    "e. Sayur asam kacang bereum siap disajikan.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Pesmol ikan nila",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127699-1000xauto-makanan-khas-jawa-barat.jpg",
-                            "Bahan:\n" +
-                                    "- 2 ekor ikan nila ukuran sedang, siangi dan cuci bersih.\n" +
-                                    "- 1/2 sdt garam.\n" +
-                                    "- 1 buah jeruk nipis.\n" +
-                                    "- Minyak secukupnya untuk menggoreng.\n" +
-                                    "\n" +
-                                    "Bahan halus:\n" +
-                                    "- 5 siung bawang merah.\n" +
-                                    "- 3 siung bawang putih.\n" +
-                                    "- 3 buah cabe merah besar/keriting.\n" +
-                                    "- 3 cm kunyit.\n" +
-                                    "- 2 cm jahe.\n" +
-                                    "- 3 btr kemiri.\n" +
-                                    "- Kaldu bubuk secukupnya.\n" +
-                                    "- Daun jeruk utuh.\n" +
-                                    "- 1 sdt garam.\n" +
-                                    "- 2 sdt gula pasir.\n" +
-                                    "- 300 ml air.\n" +
-                                    "\n" +
-                                    "Bahan pelengkap:\n" +
-                                    "- Secukupnya daun bawang, iris serong.\n" +
-                                    "- 1 buah tomat, potong-potong.\n" +
-                                    "- 10 buah cabe rawit.\n",
-                            "Langkah masak :\n" +
-                                    "a. Lumuri ikan bersih dgn garam & jeruk nipis, goreng.\n" +
-                                    "b. Tumis bumbu halus + daun jeruk hingga harum.\n" +
-                                    "c. Tambahkan gula, garam dan kaldu bubuk, aduk rata & test rasa.\n" +
-                                    "d. Masukkan daun bawang, tomat & cabe rawit, aduk rata dan masak sebentar hingga agak layu, matikan api.\n" +
-                                    "e. Campurkan ikan goreng dgn kuah bumbu nya.\n" +
-                                    "f. Sajikan dgn nasi hangat dan kerupuk.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Karedok",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127698-1000xauto-makanan-khas-jawa-barat.jpg",
-                            "Bahan sayuran potong:\n" +
-                                    "- Kacang panjang.\n" +
-                                    "- Mentimun.\n" +
-                                    "- Kemangi\n" +
-                                    "- Selada.\n" +
-                                    "- Terong lalap.\n" +
-                                    "- Tomat.\n" +
-                                    "- Toge super.\n" +
-                                    "- Kol.\n" +
-                                    "\n" +
-                                    "Bahan bumbu kacang:\n" +
-                                    "- 250 gr kacang oven atau goreng.\n" +
-                                    "- 300 ml air hangat, sesuaikan dengan kekentalannya.\n" +
-                                    "- 5 bawang putih, goreng sebentar.\n" +
-                                    "- 8 cabe keriting, goreng sebentar.\n" +
-                                    "- 2 cabe rawit, goreng sebentar.\n" +
-                                    "- 60 gr gula jawa, sisir halus.\n" +
-                                    "- 2 sdt garam.\n" +
-                                    "- 2 blok terasi.\n" +
-                                    "- 3 cm kencur.\n" +
-                                    "- 2 jeruk limau, ambil airnya\n",
-                            "Langkah masak:\n" +
-                                    "a. Haluskan semua bahan bumbu kacang. Kamu bisa menggunakan blender atau uleg secara manual.\n" +
-                                    "b. Campurkan dengan bahan sayuran mentah yang sudah dipotong.\n" +
-                                    "c. Aduk hingga rata.\n" +
-                                    "d. Sajikan dengan emping atau kerupuk kanji lebih nikmat.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Nasi tutug oncom",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127700-makanan-khas-jawa-barat.jpg",
-                            "Bahan:\n" +
-                                    "- 2 kotak oncom, cabik-cabik menggunakan garpu.\n" +
-                                    "- 5 buah cabai merah keriting.\n" +
-                                    "- 5 buah cabai rawit.\n" +
-                                    "- 6 siung bawang merah.\n" +
-                                    "- 2 siung bawang putih.\n" +
-                                    "- 2 cm kencur.\n" +
-                                    "- 1/2 sdt terasi bakar.\n" +
-                                    "- Garam sesuai selera\n",
-                            "Langkah masak:\n" +
-                                    "a. Panggang oncom beserta bumbu-bumbu kecuali kencur, hingga mengering.\n" +
-                                    "b. Haluskan bumbu dan campurkan dengan oncom. Aduk dengan nasi hangat.\n" +
-                                    "c. Nasi tutug oncom siap disajikan.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Soto Mi",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127701-1000xauto-makanan-khas-jawa-barat.jpg",
-                            "Bahan:\n" +
-                                    "- 500 gram daging sapi, potong-potong.\n" +
-                                    "- 2 buah wortel, potong-potong.\n" +
-                                    "- 2 liter air.\n" +
-                                    "\n" +
-                                    "Bahan bumbu:\n" +
-                                    "- 2 cm lengkuas, memarkan.\n" +
-                                    "- 2 cm jahe, memarkan.\n" +
-                                    "- 1 batang sereh, geprek.\n" +
-                                    "- 3 lembar daun salam.\n" +
-                                    "- 2 lembar daun jeruk.\n" +
-                                    "- 1 buah biji pala, parut.\n" +
-                                    "- 1/2 sdt kunyit bubuk.\n" +
-                                    "- 1/2 sdt ketumbar bubuk.\n" +
-                                    "- 2 sdm kecap manis.\n" +
-                                    "- 1/2 sdt merica.\n" +
-                                    "- 1 sdm gula.\n" +
-                                    "- 1 sdm garam.\n" +
-                                    "\n" +
-                                    "Bahan bumbu halus:\n" +
-                                    "- 10 buah bawang merah.\n" +
-                                    "- 5 siung bawang putih.\n" +
-                                    "- 5 butir kemiri.\n" +
-                                    "\n" +
-                                    "Bahan pelengkap:\n" +
-                                    "- Mi kuning atau mi telur, rebus terlebih dahulu.\n" +
-                                    "- Kol, ris halus.\n" +
-                                    "- Tomat, risol bihun, bawang goreng, daun bawang, iris tipis.\n" +
-                                    "- Jeruk nipis, kecap manis, cuka sedikit, dan sambal.\n",
-                            "Langkah masak:\n" +
-                                    "a. Tumis bumbu halus dan bumbu hingga harum dengan sedikit minyak goreng.\n" +
-                                    "b. Setelah bumbu harum masukkan air dan masak hingga mendidih. c. c. Masukkan daging sapi dan masak hingga daging empuk kemudian masukkan wortel.\n" +
-                                    "d. Masak hingga bumbu meresap dan wortel matang. Koreksi rasa.\n" +
-                                    "e. Susun mi, kol, tomat, risol bihun ke dalam mangkuk dan tuang kuah panas-panas.\n" +
-                                    "f. Soto mi siap disajikan dengan bahan pelengkap lainnya.\n"
-                    )
-            )
-            list.add(
-                    ListObjResep(
-                            "Jadah tempe",
-                            "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256496-1000xauto-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113624-1000xauto-resep-masakan-padang-asli.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 1 kg ketan\n" +
-                                    "- 2 buah kelapa\n" +
-                                    "- 2 lbr daun pandan\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Daun pisang\n" ,
-                            "Cara membuat:\n" +
-                                    "1. Rendam ketan selama minimal 2 jam, boleh lebih tergantung kualitas ketan. Lalu cuci bersih dan tiriskan.\n" +
-                                    "2. Kukus ketan dengan daun pandan selama 40 menit. Sambil menunggu ketan dikukus. Bersihkan kulit ari kelapa lalu parut secara manual, beri garam aduk rata.\n" +
-                                    "3. Campur ketan yang dikukus dengan parutan kelapa, aduk hingga rata. Lalu kukus kembali selama 30 menit.\n" +
-                                    "4. Angkat jika ketan sudah matang dan tidak lengket di tangan.\n" +
-                                    "5. Selagi panas tumbuk ketan hingga halus dan lembut.\n"
+                                    "- 1 kg daging sapi\n" +
+                                    "- Baby kentang\n" +
+                                    "- 2 lembar daun kunyit\n" +
+                                    "- 1 batang sereh\n" +
+                                    "- 4 lembar daun jeruk\n" +
+                                    "- 1 lembar daun salam\n" +
+                                    "- 1 sdm ambu2 (boleh skip)\n" +
+                                    "- 1 ons cabai giling halus\n" +
+                                    "- 1 kg santan kental\n" +
+                                    "\n" +
+                                    "Bahan dihaluskan:\n" +
+                                    "- 10 bawang merah ukuran besar\n" +
+                                    "- 5 bawang putih\n" +
+                                    "- Jahe (sebesar ibu jari)\n" +
+                                    "- Lengkuas muda (sebesar ibu jari)\n" +
+                                    "- 1 paket rempah gulai/rendang (ketumbar, kapulaga, bunga pekak, cengkeh, kayu manis dan buah pala)\n" +
+                                    "- Garam (sesuai selera)\n" ,
+                            "Cara memasak:\n" +
+                                    "- Masukkan semua bahan dalam satu wajan/kuali kecuali daging, kentang dan ambu-ambu (kelapa kering khas masakan Padang).\n" +
+                                    "- Aduk sebentar hingga santan sedikit mendidih.\n" +
+                                    "- Masukkan daging dan ambu-ambu.\n" +
+                                    "- Jika rendang sudah meletup-letup, masukan kentang.\n" +
+                                    "- Aduk lagi hingga rendang tanak (mengeluarkan minyak) dan rendang menghitam.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Nasi tiwul",
+                            "Sambal hijau terong + ikan asin jambal",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256497-1000xauto-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113625-1000xauto-resep-masakan-padang-asli.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 1 piring nasi tiwul\n" +
-                                    "- 1 butir telur\n" +
-                                    "- 4 siung bawang putih, cincang atau geprek\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Lada bubuk secukupnya\n" +
-                                    "- Minyak goreng secukupnya\n" +
-                                    "- Penyedap rasa secukupnya\n" ,
+                                    "- Terong 2 buah, belah, potong-potong\n" +
+                                    "- Ikan asin jambal 200 gr, potong\n" +
+                                    "- Garam/penyedap\n" +
+                                    "- Gula pasir secukupnya\n" +
+                                    "- Tomat hijau potong dadu\n" +
+                                    "\n" +
+                                    "Bumbu halus:\n" +
+                                    "- Cabai hijau 1-2 ons\n" +
+                                    "- 10 butir bawang merah\n" +
+                                    "- 2 siung bawang putih\n" ,
                             "Cara membuat:\n" +
-                                    "1. Masukkan minyak goreng pada wajan, panaskan dengan api sedang. Kocok lepas telur, kemudian goreng pada wajan. Orak arik hingga matang, kemudian sisihkan.\n" +
-                                    "2. Tumis bawang putih pada wajan yang sama dengan sedikit minyak, tumis hingga beraroma wangi. Kemudian masukkan nasi tiwul, garam, lada, penyedap rasa. Aduk semua bahan menjadi satu hingga rata.\n" +
-                                    "3. Koreksi rasa dan sajikan dengan taburan bawang goreng.\n"
+                                    "- Rebus jambal + gula pasir, bilas dan tiriskan.\n" +
+                                    "- Cuci terong kemudian goreng, begitu juga jambal, tiriskan.\n" +
+                                    "- Goreng sebentar cabai, bawang merah dan bawang putih kemudian ulek + garam/penyedap kasar, beri perasan air jeruk nipis.\n" +
+                                    "- Panaskan minyak,masukkan cabai hijau + tomat, aduk dan beri gula pasir, aduk, masukkan jambal aduk, dan kemudian terong, aduk sampai tercampur rata, matikan api dan sajikan.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Cenil",
+                            "Ikan siam sambal bawang",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256488-1000xauto-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113626-1000xauto-resep-masakan-padang-asli.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 150 gr tepung tapioka\n" +
-                                    "- 100 gr tepung terigu\n" +
-                                    "- 2 sdm gula pasir\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Gula merah secukupnya\n" +
-                                    "- Kelapa parut, tambah sedikit garam dan kukus hingga matang\n" +
-                                    "- Pewarna makanan\n" ,
+                                    "- 1/4 kg ikan gabus/ikan siam\n" +
+                                    "- 10 bawang merah\n" +
+                                    "- 1 bawang putih\n" +
+                                    "- 1 buah bawang bombai\n" +
+                                    "- 2 buah tomat\n" +
+                                    "- 1 ons cabai setan /rawit merah\n" +
+                                    "- 1 ons cabai rawit hijau\n" +
+                                    "- Garam (sesuai selera)\n" ,
                             "Cara membuat:\n" +
-                                    "1. Campurkan tepung tapioka dan terigu, tuang beberapa tetes pewarna makanan dan air hangat. Aduk rata dan uleni hingga kalis.\n" +
-                                    "2. Rebus air hingga mendidih.\n" +
-                                    "3. Ambil sedikit adonan dan pulung memanjang, rebus hingga naik ke permukaan.\n" +
-                                    "4. Dalam sebuah panci, didihkan sedikit air, cairkan gula merah dan gula pasir dengan sedikit air hangat. Masak hingga mengental.\n" +
-                                    "5. Sajikan cenil dengan siraman air gula.\n"
+                                    "- Cuci bersih ikan siam lalu rendam dengan air panas, cuci lagi dan tiriskan dan goreng.\n" +
+                                    "- Tumis bawang merah iris, setelah harum masukkan bawang bombai dan bawang putih, setelah bawang layu masukkan duo cabai serta potongan tomat.\n" +
+                                    "- Bumbui dengan garam dan penyedap.\n" +
+                                    "- Biarkan sambal dingin dan campurkan dengan ikan yang sudah digoreng.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Geplak",
+                            "Nasi tutug oncomGulai daun singkong",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256487-resep-makanan-jogja.jpg",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113629-1000xauto-resep-masakan-padang-asli.jpg",
                             "Bahan-bahan:\n" +
-                                    "- 2 buah kelapa, parut\n" +
-                                    "- 750 gram tepung beras\n" +
-                                    "- 500 gram gula pasir\n" +
-                                    "- 300 ml air matang\n" +
-                                    "- Pewarna makanan\n" +
-                                    "- 1/4 sdt garam\n" ,
+                                    "- Daun singkong direbus dan peras, lalu potong-potong\n" +
+                                    "- Daun salam\n" +
+                                    "- Lengkuas\n" +
+                                    "- Serei\n" +
+                                    "- Rawit utuh\n" +
+                                    "- Udang kering\n" +
+                                    "- Teri Medan\n" +
+                                    "- Santan\n" +
+                                    "\n" +
+                                    "Haluskan:\n" +
+                                    "- Bawang merah\n" +
+                                    "- Bawang putih\n" +
+                                    "- Cabai merah\n" +
+                                    "- Terasi\n" +
+                                    "- Kunyit\n" +
+                                    "- Kemiri\n" ,
                             "Cara membuat:\n" +
-                                    "1. Ayak tepung beras. Sangrai hingga kering. Tambahkan kelapa parut, aduk rata. Sisihkan sebentar.\n" +
-                                    "2. Rebus air matang bersama gula pasir hingga mendidih dan gula larut.\n" +
-                                    "3. Masukkan adonan tepung dan kelapa ke dalam air rebusan gula. Tambahkan garam, aduk rata hingga mengental dan mendidih. Angkat.\n" +
-                                    "4. Bagi adonan menjadi beberapa bagian dan beri masing-masing bagian dengan pewarna makanan, aduk rata.\n" +
-                                    "5. Ambil adonan, bentuk bulat-bulat kecil sesuai selera.\n"
+                                    "- Tumis bumbu halus sampai wangi, baru masukkan ebi aduk, tuang santan encer masukkan daun singkong, penyedap rasa kalau Sudah mendidih.\n" +
+                                    "- Masukkan santan kental, kecilkan api, aduk terus jangan sampai pecah santannya, aduk sampai mendidih, matikan api dan angkat.\n"
                     )
             )
             list.add(
                     ListObjResep(
-                            "Kipo",
+                            "Dendeng bathokok lado",
                             "Kompor",
-                            "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256489-1000xauto-resep-makanan-jogja.jpg",
-                            "Bahan-bahan:\n" +
-                                    "- 150 gr tepung ketan\n" +
-                                    "- 1/2 sdt vanilla essence\n" +
-                                    "- 100 gr kenapa parut\n" +
-                                    "- 2 keping gula merah\n" +
-                                    "- 2 lembar daun pisang\n" +
-                                    "- 50 gr gula pasir\n" +
-                                    "- 65 ml santan siap pakai\n" +
-                                    "- Garam secukupnya\n" +
-                                    "- Air secukupnya\n" +
-                                    "- Mentega secukupnya\n" +
-                                    "- Pasta pandan secukupnya\n" ,
+                            "https://cdn-brilio-net.akamaized.net/news/2019/11/15/174094/1127701-1000xauto-makanan-khas-jawa-barat.jpghttps://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113627-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan:Bahan-bahan:\n" +
+                                    "- 250 gr daging sapi, iris tipis\n" +
+                                    "- 2 buah kentang kupas, potong-potong\n" +
+                                    "- Air secukupnya untuk merebus daging\n" +
+                                    "- Minyak dan garam secukupnya\n" +
+                                    "\n" +
+                                    "Bumbu rebus daging:\n" +
+                                    "- 4 siung bawang putih\n" +
+                                    "- 1 sdt ketumbar\n" +
+                                    "- 1 ruas jari jahe\n" +
+                                    "- 2 sdt garam\n" +
+                                    "\n" +
+                                    "Bumbu halus:\n" +
+                                    "- 150 gr cabai keriting hijau\n" +
+                                    "- 3 buah cabai hijau besar\n" +
+                                    "- 7 siung bawang merah\n" +
+                                    "- 2 buah tomat hijau ukuran kecil\n" ,
                             "Cara membuat:\n" +
-                                    "1. Didihkan air, kemudian masukkan gula pasir dan gula merah. Aduk hingga gula agak larut.\n" +
-                                    "2. Tambahkan kelapa dan vanila essens, masak hingga menyusut dan kering.\n" +
-                                    "3. Campurkan tepung ketan, santan dan pasta pandan, tambahkan juga garam pada wadah yang lain.\n" +
-                                    "4. Uleni adonan dengan menambahkan air sedikit demi sedikit, hingga adonan menjadi kalis\n" +
-                                    "5. Ambil adonan sesuai selera, kemudian isi di tengah adonan dengan isian, dan bentuk adonan menjadi lonjong.\n" +
-                                    "6. Siapkan wajan yang sudah diolesi mentega, lalu taruh selembar daun pisang diatasnya.\n" +
-                                    "7. Taruh kue kipo di atas wajan, gunakan api kecil, dan jangan lupa bolak balik kue kipo. Angkat dan sajikan.\n"
+                                    "- Rebus daging dengan bumbu sekitar 15 menit, lalu tiriskan setelah itu daging digeprek-geprek. Sisihkan.\n" +
+                                    "- Goreng kentang sampai matang, tiriskan. Lalu goreng daging sebentar saja.\n" +
+                                    "- Tumis bumbu cabai hijau, beri garam secukupnya, icip rasa, matikan api.\n" +
+                                    "- Masukkan kentang dan daging yang sudah digoreng, sajikan.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Balado jengkol",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113628-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 250 gr jengkol, belah dua\n" +
+                                    "- 2 buah kentang kupas, potong-potong\n" +
+                                    "- 50 gr teri\n" +
+                                    "- 1 buah tomat, iris\n" +
+                                    "- Minyak dan garam secukupnya\n" +
+                                    "\n" +
+                                    "Bumbu halus:\n" +
+                                    "- 100 gr cabai keriting\n" +
+                                    "- 5 buah cabai rawit\n" +
+                                    "- 7 siung bawang merah\n" ,
+                            "Cara membuat:\n" +
+                                    "- Goreng kentang sampai matang lalu tiriskan.\n" +
+                                    "- Goreng jengkol, lalu masukkan ke mangkok berisi air kemudian tiriskan lalu geprek.\n" +
+                                    "- Goreng teri sampai matang, tiriskan.\n" +
+                                    "- Tumis bumbu halus dan tomat sampai matang, beri garam secukupnya.\n" +
+                                    "- Icip rasa, matikan api. Tuang bahan-bahan yang sudah digoreng ke tumisan cabai. Aduk rata.\n" +
+                                    "- Sajikan dengan nasi hangat.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Ikan kuwe bakar madu",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113630-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1 ekor ikan kuwe, lumuri dengan 1 sdt air jeruk nipis dan 1/2 sdt garam, diamkan 1/2 jam, kemudian bilas bersih\n" +
+                                    "- 1 sdm margarin untuk menumis bumbu\n" +
+                                    "\n" +
+                                    "Bumbu 1 (haluskan):\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 2 butir bawang merah\n" +
+                                    "- 3 cm kunyit\n" +
+                                    "- 1 sdt ketumbar\n" +
+                                    "- 1/2 sdt lada bubuk\n" +
+                                    "- 2 lembar daun jeruk\n" +
+                                    "\n" +
+                                    "Bumbu 2:\n" +
+                                    "- 2 sdm madu\n" +
+                                    "- 1 sdm kecap manis\n" +
+                                    "- 1 sdm kecap asin\n" +
+                                    "- 1/2 sdt garam\n" ,
+                            "Cara membuat:\n" +
+                                    "- Panaskan mentega, lalu tumis bumbu halus sampai wangi. Masukkan bumbu kasar, aduk rata, masak sampai agak kental.\n" +
+                                    "- Setelah bumbu agak dingin, marinasi ikan dgn bumbu, oleskan bolak-balik ikan dengan bumbu, diamkan 1 jam.\n" +
+                                    "- Panaskan teflon anti lengket, oleskan mentega tipis-tipis. Panggang ikan bolak-balik kedua sisinya sambil diolesi sisa bumbu.\n" +
+                                    "- Panggang hingga matang.\n" +
+                                    "- Angkat dan sajikan.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Cumi pedas saus tiram",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113631-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1/2 kg cumi\n" +
+                                    "- 5 siung bawang merah\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 1 buah cabai merah besar\n" +
+                                    "- 20 buah cabai rawit\n" +
+                                    "- 1 ruas lengkuas, geprek\n" +
+                                    "- 1 ruas jahe, geprek\n" +
+                                    "- 3 sdm saus tiram\n" +
+                                    "- 1 sdm saus tomat extra pedas\n" +
+                                    "- 1 sdm saus teriyaki\n" +
+                                    "- 1/2 sdt merica bubuk\n" +
+                                    "- Gula dan garam secukupnya\n" +
+                                    "- Air 150 ml\n" +
+                                    "- Minya goreng untuk menumis\n" +
+                                    "- Jeruk nipis\n" +
+                                    "- 1/2 sdm maizena dilarutkan dengan sedikit air\n" ,
+                            "Cara membuat:\n" +
+                                    "- Cuci bersih cumi, hilangkan tintanya, potong-potong lalu beri perasan jeruk nipis, diamkan kurang lebih 30 menit.\n" +
+                                    "- Tumis dua bawang hingga harum, masukkan cabai merah, cabai rawit, jahe dan lengkuas, tumis lagi hingga layu.\n" +
+                                    "- Tambahkan saus tiram, saus teriyaki, saus pedas dan air 150 ml, aduk-aduk.\n" +
+                                    "- Masukkan cumi, aduk-aduk merata, berikan merica, gula dan garam secukupnya, dan tambahkan maizena.\n" +
+                                    "- Masak dengan api kecil hingga cumi empuk dan air sedikit menyusut.\n" +
+                                    "- Sajikan hangat.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Tauco sayur pedas",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113634-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- Udang\n" +
+                                    "- Jagung muda\n" +
+                                    "- Labu jipang\n" +
+                                    "- Rimbang\n" +
+                                    "- Kacang panjang\n" +
+                                    "- Kencong\n" +
+                                    "- Tempe, goreng 1/2 matang\n" +
+                                    "- Cabai merah, cabai hijo, cabai rawit, iris\n" +
+                                    "- Tomat, potong-potong\n" +
+                                    "- Sereh\n" +
+                                    "- Lengkuas\n" +
+                                    "- Daun salam dan daun jeruk\n" +
+                                    "- Tauco Medan\n" +
+                                    "- Kecap asin\n" +
+                                    "- Totole\n" +
+                                    "- Bawang merah, bawang putih, iris\n" +
+                                    "- Cabai giling\n" +
+                                    "- Gula merah\n" ,
+                            "Cara membuat:\n" +
+                                    "- Tumis bawang merah dan putih, masukkan sereh, lengkuas, dan daun salam/jeruk baru cabai giling.\n" +
+                                    "- Setelah wangi masukkan udang berikut sayur-sayurannya, aduk sampai rata kemudian tambahkan, kecap asin, totole, gula merah, tauco.\n" +
+                                    "- Masak sampai meresap, tambahkan air sedikit dulu, tutup bentar, setelah sayurnya matang angkat tutupnya.\n" +
+                                    "- Masukkan cabai iris, tomat, dan pete, aduk lagi.\n" +
+                                    "- Tambahkan air matang bila kurang, bila ingin berkuah tambahkan air secukupnya.\n" +
+                                    "- Setelah airnya mendidih dan sedikit meresap, angkat.\n" +
+                                    "- Sajikan.\n"
+                    )
+            )
+            list.add(
+                    ListObjResep(
+                            "Ikan tenggiri asam pedas",
+                            "Kompor",
+                            "https://cdn-brilio-net.akamaized.net/news/2019/10/18/172502/1113638-1000xauto-resep-masakan-padang-asli.jpg",
+                            "Bahan-bahan:\n" +
+                                    "- 1 ekor ikan tenggiri ukuran sedang cuci bersih balurin air jeruk nipis dan garam diamkan 15 menit lalu cuci bersih\n" +
+                                    "- Rawit hijau dan merah secukupnya\n" +
+                                    "\n" +
+                                    "Bumbu dihaluskan:\n" +
+                                    "- 5 siung bawang merah\n" +
+                                    "- 3 siung bawang putih\n" +
+                                    "- 1 ruas lengkuas\n" +
+                                    "- 1/2 ruas kunyit\n" +
+                                    "- 2 batang sereh\n" +
+                                    "- 10 biji cabai merah keriting\n" +
+                                    "- 5 butir ketumbar\n" +
+                                    "- 1 sdm terasi\n" +
+                                    "- 5 lembar daun jeruk\n" +
+                                    "- 3 lembar daun salam\n" +
+                                    "- 1 sdm asam Jawa larutkan di air\n" +
+                                    "- Garam, gula, penyedap jamur secukupnya\n" +
+                                    "- Air secukupnya\n"  ,
+                            "Cara memasak:\n" +
+                                    "- Tumis bumbu halus daun salam dan jeruk sampai wangi, masukkan pete, rawit ijo tumis e lalu masukkan air asam, garam gula penyedap rasa dan air secukupnya.\n" +
+                                    "- Tunggu mendidih masukkan ikan, tes rasa, jika rasanya sudah asam manis pedas, matikan api dan sajikan.\n"
                     )
             )
             return list
