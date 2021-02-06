@@ -14,7 +14,7 @@ class SumberData {
                             "https://cdn-brilio-net.akamaized.net/news/2020/06/26/187174/1256490-resep-makanan-jogja.jpg",
                             "Bahan-bahan:\n" +
                                     "- 1 kilogram nangka muda, cuci bersih, tiriskan\n" +
-                                    "- 1/4 kilogram kelapa tua, parut, ambil santannya\n" +
+                                    "- 1/4 kilogram kelapa tua, parut, ambil santannya \n" +
                                     "- 200 gram daging sapi\n" +
                                     "- 4 butir telur rebus\n" +
                                     "\n" +
