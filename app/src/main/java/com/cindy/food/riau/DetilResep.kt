@@ -17,7 +17,7 @@ class DetilResep : AppCompatActivity() {
             val alat : String = this.intent.getStringExtra("alatnya").toString()
             val bahan : String = this.intent.getStringExtra("bahannya").toString()
             val cara : String = this.intent.getStringExtra("caranya").toString()
-            setDetil(alat, nama, bahan, cara, foto)
+            setDetil(foto, nama, alat, bahan, cara)
         }
     }
 

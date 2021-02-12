@@ -206,6 +206,7 @@
         <activity android:name=".bengkulu.bengkulu"></activity>
         <activity android:name=".bengkulu.Activity_ke33"></activity>
         <activity android:name=".bengkulu.DetilResep"></activity>
+
     </application>
 
 </manifest>
